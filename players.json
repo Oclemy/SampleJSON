@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "1",
+    "Name": "Anthony Martial",
+    "Position": "Striker"
+  },
+  {
+    "Id": "2",
+    "Name": "Marcus Rashford",
+    "Position": "Striker"
+  },
+  {
+    "Id": "3",
+    "Name": "Jesse Lingard",
+    "Position": "Winger"
+  },
+  {
+    "Id": "4",
+    "Name": "Memphis Deepay",
+    "Position": "Winger"
+  },
+  {
+    "Id": "5",
+    "Name": "Xavi Hernandez",
+    "Position": "Midfielder"
+  },
+  {
+    "Id": "6",
+    "Name": "Andreas Iniesta",
+    "Position": "Midfielder"
+  },
+  {
+    "Id": "7",
+    "Name": "Sergio Ramos",
+    "Position": "Defender"
+  },
+  {
+    "Id": "8",
+    "Name": "Zinedine Zidane",
+    "Position": "Striker"
+  },
+  {
+    "Id": "9",
+    "Name": "Diego Maradona",
+    "Position": "Striker"
+  },
+  {
+    "Id": "10",
+    "Name": "Roberto Carlos",
+    "Position": "Midfielder"
+  },
+  {
+    "Id": "11",
+    "Name": "Lucio",
+    "Position": "Defender"
+  },
+  {
+    "Id": "12",
+    "Name": "Fabio Cannavaro",
+    "Position": "Defender"
+  }
+]
