@@ -4,7 +4,7 @@
     "name": "Voyager A",
     "propellant": "Warp Drive",
     "destination": "Alpha Centauri A",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/voyager.jpg?raw=true",
     "technologyexists": "1"
   },
   {
@@ -12,15 +12,15 @@
     "name": "Voyager B",
     "propellant": "Plasma Ions",
     "destination": "Proxima Centauri",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/challenger.jpg?raw=true",
     "technologyexists": "0"
   },
   {
     "id": "30",
-    "name": "Chandra",
-    "propellant": "Nuclear Energy",
+    "name": "Apollo",
+    "propellant": "Chemical Energy",
     "destination": "Venus",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/apollo.jpg?raw=true",
     "technologyexists": "1"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Pioneer",
     "propellant": "Laser Beam",
     "destination": "Saturn",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/pioneer.jpg?raw=true",
     "technologyexists": "0"
   },
   {
@@ -36,7 +36,7 @@
     "name": "James Web",
     "propellant": "Anti-Matter",
     "destination": "Asteroid Belt",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/spitzer.jpg?raw=true",
     "technologyexists": "1"
   },
   {
@@ -44,7 +44,7 @@
     "name": "WMAP",
     "propellant": "Warp Drive",
     "destination": "Canis Majos",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/wmap.jpg?raw=true",
     "technologyexists": "0"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Kepler",
     "propellant": "Nuclear Energy",
     "destination": "Uranus",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/kepler.jpg?raw=true",
     "technologyexists": "1"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Enterprise",
     "propellant": "Laser Beam",
     "destination": "Pluto",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/enterprise.jpg?raw=true",
     "technologyexists": "0"
   },
   {
@@ -68,15 +68,31 @@
     "name": "Rostter",
     "propellant": "Laser Beam",
     "destination": "Mercury",
-    "imageurl": "",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/rosetta.jpg?raw=true",
     "technologyexists": "1"
   },
   {
     "id": "37",
-    "name": "Apollo",
-    "propellant": "Chemical Energy",
-    "destination": "Moon",
-    "imageurl": "",
+    "name": "Columbia",
+    "propellant": "Plasma Ions",
+    "destination": "Alpha Centauri",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/columbia.jpg?raw=true",
+    "technologyexists": "1"
+  },
+  {
+    "id": "38",
+    "name": "Hubble",
+    "propellant": "Anti-Matter",
+    "destination": "Cosmos Redshift",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/hubble.jpg?raw=true",
+    "technologyexists": "0"
+  },
+   {
+    "id": "39",
+    "name": "Spitzer",
+    "propellant": "Nuclear Energy",
+    "destination": "Bernard 68",
+    "imageurl": "https://github.com/Oclemy/SampleJSON/blob/master/spacecrafts/spitzer.jpg?raw=true",
     "technologyexists": "1"
   }
 ]
