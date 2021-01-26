@@ -93,3 +93,8 @@ Biometric-Auth-Login=>thulasiram-sarathy/Biometric-Auth-Login
 Android Biometric=>li2/android-biometric
 Android-BiometricKit=>Sultan1993/Android-BiometricKit
 SimpleBiometricHandler=>juhchamp/SimpleBiometricHandler
+
+##OCR
+SimpleBarcodeScanner=>bobekos/SimpleBarcodeScanner
+Bar Code Scanner=>dm77/barcodescanner
+BarCodeScanView=>anbillon/Android-BarCodeScanView
