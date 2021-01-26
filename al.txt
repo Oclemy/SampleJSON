@@ -73,3 +73,23 @@ Sync=>leomindez/Sync
 KillerTask=>inaka/KillerTask
 Valuable=>dieyidezui/Valuable
 Thread Poster=>techyourchance/thread-poster
+
+##Gallery
+Galleryna=>Oclemy/Galleryna
+Banner-Slider=>saeedsh92/Banner-Slider
+SlideImageView=>Devlight/SlideImageView
+RecyclerView Gallery=>ryanlijianchang/Recyclerview-Gallery
+ZGallery=>mzelzoghbi/ZGallery
+CardStackLayoutManager=>mayuroks/CardStackLayoutManager
+
+##Biometric
+Assure=>afollestad/assure
+Gold Finger=>infinum/Android-Goldfinger
+Biometric Kit=>AlexJuca/BiometricKit
+RxBiometric=>pwittchen/RxBiometric
+Reprint=>ajalt/reprint
+BioXLib=>Txagg1992/BioXLib
+Biometric-Auth-Login=>thulasiram-sarathy/Biometric-Auth-Login
+Android Biometric=>li2/android-biometric
+Android-BiometricKit=>Sultan1993/Android-BiometricKit
+SimpleBiometricHandler=>juhchamp/SimpleBiometricHandler
