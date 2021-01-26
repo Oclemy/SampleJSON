@@ -61,3 +61,15 @@ Sequent=>fujiyuu75/Sequent
 FPS Animator=>MasayukiSuda/FPSAnimator
 Android Animations Kotlin=>gayanvoice/android-animations-kotlin
 Disco=>m1noon/Disco
+
+##Async and Multi-Threading
+Peanut=>savepopulation/peanut
+AsyncJobLibrary=>Arasthel/AsyncJobLibrary
+AsyncManager=>boxme/AsyncManager
+Advanced AsyncTask=>mcsong/AdvancedAsyncTask
+Task Scheduler=>SilenceDut/TaskScheduler
+Android Startup=>idisfkj/android-startup
+Sync=>leomindez/Sync
+KillerTask=>inaka/KillerTask
+Valuable=>dieyidezui/Valuable
+Thread Poster=>techyourchance/thread-poster
