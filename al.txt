@@ -98,3 +98,14 @@ SimpleBiometricHandler=>juhchamp/SimpleBiometricHandler
 SimpleBarcodeScanner=>bobekos/SimpleBarcodeScanner
 Bar Code Scanner=>dm77/barcodescanner
 BarCodeScanView=>anbillon/Android-BarCodeScanView
+
+##Camera and File Pickers
+Android Image Cropper=>ArthurHub/Android-Image-Cropper
+Easy Image=>jkwiecien/EasyImage
+PhotoPicker=>liuling07/PhotoPicker
+PickPhotoView=>werbhelius/PickPhotoSample
+ChiliPhotoPicker=>ChiliLabs/ChiliPhotoPicker
+Louvre=>andremion/Louvre=>lyrebirdstudio/Croppy
+MediaPickerKit=>karanatwal/MediaPickerKt
+TedBottomPicker=>ParkSangGwon/TedBottomPicker
+UCrop=>Yalantis/uCrop
