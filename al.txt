@@ -1,0 +1,63 @@
+##Activity and Fragments
+RxRouter=>ssseasonnn/RxRouter
+Inline Activity Results=>afollestad/inline-activity-result
+CachePot=>kimkevin/CachePot
+Medusa=>Trendyol/medusa
+Sliding Activity=>klinker41/android-slidingactivity
+Slidr=>r0adkll/Slidr
+ActivitSwitcher=>Hitomis/ActivitySwitcher
+Drag Dismiss Activity=>klinker24/Android-DragDismissActivity
+Custom Activity On Crash=>Ereza/CustomActivityOnCrash
+Sliding Activity=>klinker41/android-slidingactivity
+Swipe Back Layout=>gongwen/SwipeBackLayout
+Activity Starte=>MarcinMoskala/ActivityStarter
+Floating Tutorial Activity=>klinker24/Android-FloatingTutorialActivity
+Drawing Activity=>ChilliBits/drawing-activity
+Activity Fragment Manager=>massivedisaster/ActivityFragmentManager
+FragmentRigger=>JingYeoh/FragmentRigger
+Android Navigation=>listenzz/AndroidNavigation
+FragNav=>ncapdevi/FragNav
+Fragment State Manager=>okaybroda/FragmentStateManager
+Fragment Navigation 2.0=>gyorgygabor/fragment-navigation-2.0
+ActivitySwitcher=>Hitomis/ActivitySwitcher
+Drag Dismiss Activity=>klinker24/Android-DragDismissActivity
+
+##AppBar and Toolbar
+ScalingLayout=>iammert/ScalingLayout
+AppBar Sync FAB=>strooooke/appbarsyncedfab
+Navigation ToolBar=>Ramotion/navigation-toolbar-android
+Toolbar Button=>GautamGupta/toolbar-button
+ToolBar Center Title=>RaviKoradiya/Toolbar-Center-Title
+Navigation Header=>QArtur99/NavigationHeader
+Smart ToolBar=>Chivorns/SmartToolbar
+
+##Animation
+TextSurface=>elevenetc/TextSurface
+Loading Images Animation=>Cutta/LoadingImagesAnimation
+Bungee=>Binary-Finery/Bungee
+Animatoo=>AtifSayings/Animatoo
+Activity Circular Reveal=>tombayley/ActivityCircularReveal
+Spruce Tree Android=>willowtreeapps/spruce-android
+ViewAnimator=>florent37/ViewAnimator
+RecyclerView Animators=>wasabeef/recyclerview-animators
+Garland View=>Ramotion/garland-view-android
+Slide Up=>mancj/SlideUp-Android
+Android Particles=>ibrahimsn98/android-particles
+ViewPager Transforms=>ToxicBakery/ViewPagerTransforms
+PopView Android=>krishnarb3/Popview-Android
+Count Animation TextView=>MasayukiSuda/CountAnimationTextView
+Frame Animation=>yuyashuai/FrameAnimation
+Reflow Animation=>shazam/reflow-animator
+Animated RecyclerView=>MLSDev/AnimatedRecyclerView
+Transition Player=>linfaxin/TransitionPlayer
+Sticky Switch=>GwonHyeok/StickySwitch
+Spark=>TonnyL/Spark
+Interactive canvas=>elevenetc/InteractiveCanvas
+FAB Transitions=>Adirockzz95/FABtransitions
+Yava=>javayhu/yava
+Google News Stand Animation=>hariprasanths/GoogleNewsStandAnimation-Android
+Reachability=>sakebook/Reachability
+Sequent=>fujiyuu75/Sequent
+FPS Animator=>MasayukiSuda/FPSAnimator
+Android Animations Kotlin=>gayanvoice/android-animations-kotlin
+Disco=>m1noon/Disco
