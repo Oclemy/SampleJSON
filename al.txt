@@ -20,7 +20,9 @@ FragNav=>ncapdevi/FragNav
 Fragment State Manager=>okaybroda/FragmentStateManager
 Fragment Navigation 2.0=>gyorgygabor/fragment-navigation-2.0
 ActivitySwitcher=>Hitomis/ActivitySwitcher
-Drag Dismiss Activity=>klinker24/Android-DragDismissActivity
+Easy-Fragment-Argument=>armcha/Easy-Fragment-Argument
+Fragment Args=>sockeqwe/fragmentargs
+FragmentRigger=>JingYeoh/FragmentRigger
 
 ##AppBar and Toolbar
 ScalingLayout=>iammert/ScalingLayout
