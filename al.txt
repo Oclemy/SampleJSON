@@ -250,6 +250,7 @@ MarkdownView=>tiagohm/MarkdownView
 Markdown=>zzhoujay/Markdown
 RxMarkdown=>yydcdut/RxMarkdown
 MarkyMark-Android=>M2mobi/MarkyMark-Android
+MarkdownEdit=>Tunous/MarkdownEdit
 
 ##Menu
 PopMenuLayout=>whilu/PopMenuLayout
