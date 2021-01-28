@@ -177,6 +177,7 @@ RichText=>zzhoujay/RichText
 MarkdownEditText=>YahiaAngelo/MarkdownEditText
 MarkDEditor=>bxute/MarkDEditor
 XRichText=>sendtion/XRichText
+OTMarkdownEditor=>xia-weiyang/OTMarkdownEditor
 
 ##Email
 Email Intent Builder=>cketti/EmailIntentBuilder
@@ -251,6 +252,7 @@ Markdown=>zzhoujay/Markdown
 RxMarkdown=>yydcdut/RxMarkdown
 MarkyMark-Android=>M2mobi/MarkyMark-Android
 MarkdownEdit=>Tunous/MarkdownEdit
+EasyMark=>Shouheng88/EasyMark
 
 ##Menu
 PopMenuLayout=>whilu/PopMenuLayout
