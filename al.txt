@@ -173,6 +173,8 @@ Filebox=>lyrebirdstudio/filebox
 
 ##Editor
 Rich Editor=>wasabeef/richeditor-android
+RichText=>zzhoujay/RichText
+MarkdownEditText=>YahiaAngelo/MarkdownEditText
 
 ##Email
 Email Intent Builder=>cketti/EmailIntentBuilder
