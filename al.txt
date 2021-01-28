@@ -175,6 +175,8 @@ Filebox=>lyrebirdstudio/filebox
 Rich Editor=>wasabeef/richeditor-android
 RichText=>zzhoujay/RichText
 MarkdownEditText=>YahiaAngelo/MarkdownEditText
+MarkDEditor=>bxute/MarkDEditor
+XRichText=>sendtion/XRichText
 
 ##Email
 Email Intent Builder=>cketti/EmailIntentBuilder
@@ -247,6 +249,7 @@ Markdown Editors=>qinci/MarkdownEditors
 MarkdownView=>tiagohm/MarkdownView
 Markdown=>zzhoujay/Markdown
 RxMarkdown=>yydcdut/RxMarkdown
+MarkyMark-Android=>M2mobi/MarkyMark-Android
 
 ##Menu
 PopMenuLayout=>whilu/PopMenuLayout
