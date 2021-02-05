@@ -254,6 +254,7 @@ MarkyMark-Android=>M2mobi/MarkyMark-Android
 MarkdownEdit=>Tunous/MarkdownEdit
 EasyMark=>Shouheng88/EasyMark
 falnatsheh/MarkdownView
+mukeshsolanki/MarkdownView-Android
 
 ##Menu
 PopMenuLayout=>whilu/PopMenuLayout
