@@ -253,8 +253,9 @@ RxMarkdown=>yydcdut/RxMarkdown
 MarkyMark-Android=>M2mobi/MarkyMark-Android
 MarkdownEdit=>Tunous/MarkdownEdit
 EasyMark=>Shouheng88/EasyMark
-falnatsheh/MarkdownView
-mukeshsolanki/MarkdownView-Android
+MarkdownView=>falnatsheh/MarkdownView
+MarkdownView-Android=>mukeshsolanki/MarkdownView-Android
+Markdowntextview=>untoldhq/android.markdowntextview
 
 ##Menu
 PopMenuLayout=>whilu/PopMenuLayout
