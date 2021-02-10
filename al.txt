@@ -218,6 +218,8 @@ Simple Tag ImageView_&_Tag_%_wujingchao/SimpleTagImageView
 Imaging=>minetsh/Imaging
 Image Zoomer=>code-crusher/Image-Zoomer
 PanningView=>andenapp/PanningView
+ParallaxImageView=>abdularis/ParallaxImageView
+CircularImageView=>abdularis/CircularImageView
 
 ##Intent
 Omega Intent Builder=>Omega-R/OmegaIntentBuilder
