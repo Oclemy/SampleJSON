@@ -112,6 +112,7 @@ FAB Menu=>cheekiat/FabMenu
 Fabb=>HBiSoft/Fabb
 CameraVideoButton=>iammert/CameraVideoButton
 Spark Button=>varunest/SparkButton
+TapHoldUpButton=>abdularis/TapHoldUpButton
 
 ##Caching
 Reservoir=>anupcowkur/Reservoir
