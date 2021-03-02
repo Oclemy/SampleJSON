@@ -241,6 +241,12 @@ Clean UI=>JonathandelaSen/CleanUI
 ##FilePicker
 Android File Chooser=>hedzr/android-file-chooser
 
+##GraphQL
+Apollo-Android=>apollographql/apollo-android
+Android-OkGraphQl=>florent37/Android-OkGraphQl
+GraphQL-Retrofit-Converter=>Ramkishorevit/GraphQL-Retrofit-Converter
+Android GQL=>isfaaghyth/android-gql
+
 ##Image Loader and Transformations
 Picasso=>square/picasso
 Glide=>bumptech/glide
