@@ -137,6 +137,9 @@ Store=>dropbox/Store
 Live Cache=>Mastercard/LiveCache
 Bucket=>simonpercic/Bucket
 
+##CountryPicker
+CountryPicker Android=>mukeshsolanki/country-picker-android
+
 ##Debugging and Logging
 Andzu=>isacan/Andzu
 ShootOut=>nisrulz/ShoutOut
@@ -229,6 +232,9 @@ PanningView=>andenapp/PanningView
 ParallaxImageView=>abdularis/ParallaxImageView
 CircularImageView=>abdularis/CircularImageView
 
+##ImageEditor
+PhotoFilter=>mukeshsolanki/photofilter
+
 ##Intent
 Omega Intent Builder=>Omega-R/OmegaIntentBuilder
 Intent Share=>tvbarthel/IntentShare
@@ -238,6 +244,10 @@ Shelly=>tribe/shelly
 ##Intro and Showcase
 Material IntroView=>iammert/MaterialIntroView
 Showcase=>bilgehankalkan/showcase
+
+##API
+News-API=>mukeshsolanki/News-API-Android
+Google Places=>mukeshsolanki/Google-Places-AutoComplete-EditText
 
 ##RecyclerView Item Animators
 RecyclerView Animators=>wasabeef/recyclerview-animators
@@ -344,6 +354,9 @@ Google ProgressBar=>jpardogo/GoogleProgressBar
 ##Packages
 Package Hunter=>nisrulz/packagehunter
 AppListManager=>LayoutXML/AppListManager
+
+##PinView
+OTP PinView=>mukeshsolanki/android-otpview-pinview
 
 ##RecyclerView
 BaseRecyclerViewAdapterHelper=>CymChad/BaseRecyclerViewAdapterHelper
