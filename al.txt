@@ -27,6 +27,10 @@ FragmentRigger=>JingYeoh/FragmentRigger
 ##About
 EasyAbout=>marcoscgdev/EasyAbout
 
+##API
+News-API=>mukeshsolanki/News-API-Android
+Google Places=>mukeshsolanki/Google-Places-AutoComplete-EditText
+
 ##AppBar and Toolbar
 ScalingLayout=>iammert/ScalingLayout
 AppBar Sync FAB=>strooooke/appbarsyncedfab
@@ -80,6 +84,14 @@ DialogSheet=>marcoscgdev/DialogSheet
 ##CardView
 Truffle Shuffle=>intuit/truffle-shuffle
 BoardView=>jakebonk/BoardView
+
+##Chart
+MPAndroidChart=>PhilJay/MPAndroidChart
+Android Charts=>HackPlan/AndroidCharts
+Hello Charts=>lecho/hellocharts-android
+
+##Chat
+SimpleChatView=>ryanlijianchang/SimpleChatView
 
 ##Chips
 ChipsLayoutManager=>BelooS/ChipsLayoutManager
@@ -261,10 +273,6 @@ Shelly=>tribe/shelly
 Material IntroView=>iammert/MaterialIntroView
 Showcase=>bilgehankalkan/showcase
 
-##API
-News-API=>mukeshsolanki/News-API-Android
-Google Places=>mukeshsolanki/Google-Places-AutoComplete-EditText
-
 ##RecyclerView Item Animators
 RecyclerView Animators=>wasabeef/recyclerview-animators
 Item Animators=>mikepenz/ItemAnimators
@@ -304,14 +312,6 @@ Interactive PlayerView=>iammert/InteractivePlayerView
 Radio Player Service=>iammert/RadioPlayerService
 Music Player View=>iammert/MusicPlayerView
 
-##Chart
-MPAndroidChart=>PhilJay/MPAndroidChart
-Android Charts=>HackPlan/AndroidCharts
-Hello Charts=>lecho/hellocharts-android
-
-##Chat
-SimpleChatView=>ryanlijianchang/SimpleChatView
-
 ##Networking
 Retrofit=>square/retrofit
 OkHTTP=>square/okhttp
@@ -325,6 +325,11 @@ OptimusHTTP=>nisrulz/OptimusHTTP
 AsyncNetwork=>OughtToPrevail/AsyncNetwork
 Android Async=>koush/AndroidAsync
 Android HTTP Server=>matt1/AndroidHTTPServer
+Ninjato=>agoda-com/ninjato
+
+##Network Interceptor
+AndroidSnooper=>jainsahab/AndroidSnooper
+Chuck=>jgilfelt/chuck
 
 ##NavigationView
 Material Drawer=>heinrichreimer/material-drawer
