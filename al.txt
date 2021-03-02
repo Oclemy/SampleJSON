@@ -64,6 +64,13 @@ FPS Animator=>MasayukiSuda/FPSAnimator
 Android Animations Kotlin=>gayanvoice/android-animations-kotlin
 Disco=>m1noon/Disco
 
+##Billing
+InApp Billing v3=>anjlab/android-inapp-billing-v3
+Android Checkout=>serso/android-checkout
+Android-InAppBilling=>LiteKite/Android-InAppBilling
+Register=>nytimes/Register
+Reactive-Billing=>lukaspili/Reactive-Billing
+
 ##CardView
 Truffle Shuffle=>intuit/truffle-shuffle
 BoardView=>jakebonk/BoardView
