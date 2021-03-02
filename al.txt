@@ -139,6 +139,9 @@ Bucket=>simonpercic/Bucket
 
 ##CountryPicker
 CountryPicker Android=>mukeshsolanki/country-picker-android
+CountryCodePickerProject=>hbb20/CountryCodePickerProject
+CountryCodePicker=>joielechong/CountryCodePicker
+AndroidCountryPicker=>hbb20/AndroidCountryPicker
 
 ##Debugging and Logging
 Andzu=>isacan/Andzu
@@ -414,6 +417,7 @@ Overscroll Decor=>EverythingMe/overscroll-decor
 AnimatedTabLayout=>iammert/AnimatedTabLayout
 TabScrollAttacher=>iammert/TabScrollAttacher
 SnapTabLayout=>nirukk52/SnapTabLayout
+Bubble Navigation=>joielechong/bubble-navigation
 
 ##TreeView
 DraggableTreeView=>jakebonk/DraggableTreeView
