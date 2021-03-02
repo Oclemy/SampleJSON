@@ -24,6 +24,9 @@ Easy-Fragment-Argument=>armcha/Easy-Fragment-Argument
 Fragment Args=>sockeqwe/fragmentargs
 FragmentRigger=>JingYeoh/FragmentRigger
 
+##About
+EasyAbout=>marcoscgdev/EasyAbout
+
 ##AppBar and Toolbar
 ScalingLayout=>iammert/ScalingLayout
 AppBar Sync FAB=>strooooke/appbarsyncedfab
@@ -120,6 +123,7 @@ Fabb=>HBiSoft/Fabb
 CameraVideoButton=>iammert/CameraVideoButton
 Spark Button=>varunest/SparkButton
 TapHoldUpButton=>abdularis/TapHoldUpButton
+MaterialFancyButtons=>joielechong/MaterialFancyButtons
 
 ##Caching
 Reservoir=>anupcowkur/Reservoir
@@ -214,6 +218,9 @@ FCMHelper=>MOSDEV82/fcmhelper
 ##Framework
 Android UI Components=>Trendyol/android-ui-components
 Clean UI=>JonathandelaSen/CleanUI
+
+##FilePicker
+Android File Chooser=>hedzr/android-file-chooser
 
 ##Image Loader and Transformations
 Picasso=>square/picasso
@@ -345,6 +352,7 @@ Roxie=>ww-tech/roxie
 Assent=>afollestad/assent
 Permy=>savepopulation/permy
 Android Permissions=>nishkarsh/android-permissions
+EasyPermissions=>mukeshsolanki/easypermissions-android
 
 ##Play Store
 RxMagneto=>aritraroy/RxMagneto
@@ -397,9 +405,8 @@ ReactiveSensors=>pwittchen/ReactiveSensors
 Sensey=>nisrulz/sensey
 Easy Device Info=>nisrulz/easydeviceinfo
 
-##SHARED PREFERENCES
-AndroidMaterialPreferences=>michael-rapp/AndroidMaterialPreferences
-AndroidPreferenceActivity=>michael-rapp/AndroidPreferenceActivity
+##Scroll
+Overscroll Decor=>EverythingMe/overscroll-decor
 
 ##SearchView
 Floating SearchView=>renaudcerrato/FloatingSearchView
@@ -410,8 +417,10 @@ Material Range Bar=>oli107/material-range-bar
 RangeView=>iammert/RangeView
 HueSeekBar=>iammert/HueSeekBar
 
-##Scroll
-Overscroll Decor=>EverythingMe/overscroll-decor
+##SHARED PREFERENCES
+AndroidMaterialPreferences=>michael-rapp/AndroidMaterialPreferences
+AndroidPreferenceActivity=>michael-rapp/AndroidPreferenceActivity
+EasyPreferences=>mukeshsolanki/easypreferences
 
 ##Tabs
 AnimatedTabLayout=>iammert/AnimatedTabLayout
