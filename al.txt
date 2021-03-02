@@ -74,6 +74,9 @@ Android-InAppBilling=>LiteKite/Android-InAppBilling
 Register=>nytimes/Register
 Reactive-Billing=>lukaspili/Reactive-Billing
 
+##BottomSheet
+DialogSheet=>marcoscgdev/DialogSheet
+
 ##CardView
 Truffle Shuffle=>intuit/truffle-shuffle
 BoardView=>jakebonk/BoardView
@@ -86,6 +89,9 @@ TagsEditText=>mabbas007/TagsEditText
 Android TagView=>whilu/AndroidTagView
 3D Tag Cloud=>misakuo/3dTagCloudAndroid
 ChipView=>jakebonk/ChipView
+
+##Draw
+DrawingView=>mukeshsolanki/DrawingView-Android
 
 ##Date,Time and Calender
 CalenderView Toolbar=>kleisauke/CompactCalendarViewToolbar
@@ -437,12 +443,16 @@ Swipe Selector=>roughike/SwipeSelector
 ##TextView
 ToolTipView=>Cutta/ToolTipView
 
+##Toast
+MaterialToast=>marcoscgdev/MaterialToast
+
 ##URL
 Beaver=>savepopulation/beaver
 
 ##Video Player
 AutoPlayVideos=>Krupen/AutoplayVideos
 VideoPlayer Manager=>danylovolokh/VideoPlayerManager
+IPCamView=>marcoscgdev/IPCamView
 
 ##Video
 Frames=>iammert/Frames
