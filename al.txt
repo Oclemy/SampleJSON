@@ -246,6 +246,9 @@ AndroidForm=>AndroidDevFr/AndroidForm
 FormBuilder=>dariopellegrini/FormBuilder
 KFormMaster=>TheJuki/KFormMaster
 SSForms=>StarkSoftware/SSForms
+Neat-Form=>ellykits/neat-form
+FormSimpleIGB=>LordSaac/FormSimpleIGB
+Forms=>nwagu/forms
 
 ##Framework
 Android UI Components=>Trendyol/android-ui-components
@@ -294,6 +297,7 @@ Material IntroView=>iammert/MaterialIntroView
 Showcase=>bilgehankalkan/showcase
 
 ##JSON
+Gson=>google/gson
 Forge=>kittinunf/Forge
 
 ##RecyclerView Item Animators
@@ -500,8 +504,14 @@ Android Utils=>nisrulz/android-utils
 File Utils=>coltoscosmin/FileUtils
 
 ##Validation
+Vvalidator=>afollestad/vvalidator
 Ratifier=>Hamadakram/Ratifier
 Android-Saripaar=>ragunathjawahar/android-saripaar
+Form=>youse-seguradora/form
+Android Form Validation=>Dhaval2404/android-form-validation
+Blitz=>bloderxd/blitz
+SheenValidator=>rizmaulana/SheenValidator
+FormValidator=>ShabanKamell/FormValidator
 
 ##Video Player
 AutoPlayVideos=>Krupen/AutoplayVideos
