@@ -81,6 +81,9 @@ Reactive-Billing=>lukaspili/Reactive-Billing
 ##BottomSheet
 DialogSheet=>marcoscgdev/DialogSheet
 
+##BreadCumb
+BreadcrumbsView=>VictorAlbertos/BreadcrumbsView
+
 ##CardView
 Truffle Shuffle=>intuit/truffle-shuffle
 BoardView=>jakebonk/BoardView
@@ -101,6 +104,10 @@ TagsEditText=>mabbas007/TagsEditText
 Android TagView=>whilu/AndroidTagView
 3D Tag Cloud=>misakuo/3dTagCloudAndroid
 ChipView=>jakebonk/ChipView
+
+##Credit Card
+CardForm=>braintree/android-card-form
+Frames-Android=>checkout/frames-android
 
 ##Draw
 DrawingView=>mukeshsolanki/DrawingView-Android
@@ -233,6 +240,12 @@ RxFirebase=>nmoskalenko/RxFirebase
 FCM Notification Handler=>franmontiel/FcmNotificationHandler
 FirePush=>karanatwal/FirePush
 FCMHelper=>MOSDEV82/fcmhelper
+
+##Form
+AndroidForm=>AndroidDevFr/AndroidForm
+FormBuilder=>dariopellegrini/FormBuilder
+KFormMaster=>TheJuki/KFormMaster
+SSForms=>StarkSoftware/SSForms
 
 ##Framework
 Android UI Components=>Trendyol/android-ui-components
@@ -421,6 +434,9 @@ VegaLayoutManager=>xmuSistone/VegaLayoutManager
 Generic RecyclerAdapter=>burakeregar/GenericRecyclerAdapter
 XRecyclerView=>XRecyclerView/XRecyclerView
 
+##Recorder
+Android-Wave-Recorder=>squti/Android-Wave-Recorder
+
 ##Screenshot
 Screenshott=>nisrulz/screenshott
 
@@ -446,6 +462,9 @@ AndroidMaterialPreferences=>michael-rapp/AndroidMaterialPreferences
 AndroidPreferenceActivity=>michael-rapp/AndroidPreferenceActivity
 EasyPreferences=>mukeshsolanki/easypreferences
 
+##Stepper
+VerticalStepperForm=>ernestoyaquello/VerticalStepperForm
+
 ##Tabs
 AnimatedTabLayout=>iammert/AnimatedTabLayout
 TabScrollAttacher=>iammert/TabScrollAttacher
@@ -467,6 +486,23 @@ MaterialToast=>marcoscgdev/MaterialToast
 ##URL
 Beaver=>savepopulation/beaver
 
+##Utilities
+AndroidUtilCode=>Blankj/AndroidUtilCode
+Android Development Utils=>SunPv5/AndroidDevelopmentUtils
+Live Tools=>savepopulation/live-tools
+Kotlin Ext=>savepopulation/kotlin-ext
+App Privacy Policy Generator=>nisrulz/app-privacy-policy-generator
+Upload To Bintray=>nisrulz/UploadToBintray
+Upload to Jitpack=>nisrulz/UploadToJitpack
+Upload to Maven Central=>nisrulz/UploadToMavenCentral
+Validateor=>nisrulz/validatetor
+Android Utils=>nisrulz/android-utils
+File Utils=>coltoscosmin/FileUtils
+
+##Validation
+Ratifier=>Hamadakram/Ratifier
+Android-Saripaar=>ragunathjawahar/android-saripaar
+
 ##Video Player
 AutoPlayVideos=>Krupen/AutoplayVideos
 VideoPlayer Manager=>danylovolokh/VideoPlayerManager
@@ -482,16 +518,3 @@ ReactiveWiFi=>pwittchen/ReactiveWiFi
 Wifi-Connect=>anitaa1990/Wifi-Connect
 WifiUtils=>ThanosFisherman/WifiUtils
 Wroup=>ble180/Wroup
-
-##Utilities
-AndroidUtilCode=>Blankj/AndroidUtilCode
-Android Development Utils=>SunPv5/AndroidDevelopmentUtils
-Live Tools=>savepopulation/live-tools
-Kotlin Ext=>savepopulation/kotlin-ext
-App Privacy Policy Generator=>nisrulz/app-privacy-policy-generator
-Upload To Bintray=>nisrulz/UploadToBintray
-Upload to Jitpack=>nisrulz/UploadToJitpack
-Upload to Maven Central=>nisrulz/UploadToMavenCentral
-Validateor=>nisrulz/validatetor
-Android Utils=>nisrulz/android-utils
-File Utils=>coltoscosmin/FileUtils
