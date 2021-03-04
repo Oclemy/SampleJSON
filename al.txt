@@ -298,6 +298,7 @@ Showcase=>bilgehankalkan/showcase
 
 ##JSON
 Gson=>google/gson
+LoganSquare=>bluelinelabs/LoganSquare
 Forge=>kittinunf/Forge
 
 ##RecyclerView Item Animators
@@ -309,7 +310,12 @@ Pattern LockView=>aritraroy/PatternLockView
 PinLockView=>aritraroy/PinLockView
 
 ##Log
+Logger=>orhanobut/logger
 Intent Logger=>Drivemode/IntentLogger
+GPSLogger=>mendhak/gpslogger
+LogUtils=>pengwei1024/LogUtils
+Logback-Android=>tony19/logback-android
+NetworkLog=>pragma-/networklog
 
 ##Maps and Location
 EasyMap=>iammert/EasyMap
