@@ -389,6 +389,19 @@ RxJavaExtensions=>akarnokd/RxJavaExtensions
 RxLibrary=>shanluwei/Rxlibrary
 Roxie=>ww-tech/roxie
 
+##PDF Editing
+PDFCreatorAndroid=>tejpratap46/PDFCreatorAndroid
+PDF-Generator=>UttamPanchasara/PDF-Generator
+XML-to-PDF-Generator=>Gkemon/Android-XML-to-PDF-Generator
+
+##PDF Viewer
+AndroidPdfViewer=>barteksc/AndroidPdfViewer
+Light PdfViewer=>manishkummar21/AndroidPdfViewer
+PdfViewPager=>voghDev/PdfViewPager
+Pdfview-Android=>Dmitry-Borodin/pdfview-android
+Viger-PDF=>aerdy/Viger-PDF
+Pdf-Viewer=>afreakyelf/Pdf-Viewer
+
 ##Permissions
 Assent=>afollestad/assent
 Permy=>savepopulation/permy
