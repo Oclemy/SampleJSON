@@ -316,6 +316,8 @@ GPSLogger=>mendhak/gpslogger
 LogUtils=>pengwei1024/LogUtils
 Logback-Android=>tony19/logback-android
 NetworkLog=>pragma-/networklog
+xLog=>elvishew/xLog
+LogcatViewer=>fatangare/LogcatViewer
 
 ##Login
 Android-Smart-Login=>CodelightStudios/Android-Smart-Login
