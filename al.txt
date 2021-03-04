@@ -317,6 +317,9 @@ LogUtils=>pengwei1024/LogUtils
 Logback-Android=>tony19/logback-android
 NetworkLog=>pragma-/networklog
 
+##Login
+Android-Smart-Login=>CodelightStudios/Android-Smart-Login
+
 ##Maps and Location
 EasyMap=>iammert/EasyMap
 Smart Location Lib=>mrmans0n/smart-location-lib
