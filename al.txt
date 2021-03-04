@@ -393,6 +393,7 @@ Roxie=>ww-tech/roxie
 PDFCreatorAndroid=>tejpratap46/PDFCreatorAndroid
 PDF-Generator=>UttamPanchasara/PDF-Generator
 XML-to-PDF-Generator=>Gkemon/Android-XML-to-PDF-Generator
+PDF-invoice-generator=>kariot/pdf-invoice-generator
 
 ##PDF Viewer
 AndroidPdfViewer=>barteksc/AndroidPdfViewer
@@ -401,6 +402,8 @@ PdfViewPager=>voghDev/PdfViewPager
 Pdfview-Android=>Dmitry-Borodin/pdfview-android
 Viger-PDF=>aerdy/Viger-PDF
 Pdf-Viewer=>afreakyelf/Pdf-Viewer
+Android-Pdf-Viewer=>ameriod/Android-Pdf-Viewer
+MindevPDFViewer=>mkw8263/MindevPDFViewer
 
 ##Permissions
 Assent=>afollestad/assent
