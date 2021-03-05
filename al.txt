@@ -498,6 +498,9 @@ Material Range Bar=>oli107/material-range-bar
 RangeView=>iammert/RangeView
 HueSeekBar=>iammert/HueSeekBar
 
+##Shape
+ShapeOfView=>florent37/ShapeOfView
+
 ##SHARED PREFERENCES
 AndroidMaterialPreferences=>michael-rapp/AndroidMaterialPreferences
 AndroidPreferenceActivity=>michael-rapp/AndroidPreferenceActivity
