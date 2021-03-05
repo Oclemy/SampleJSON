@@ -70,6 +70,7 @@ Sequent=>fujiyuu75/Sequent
 FPS Animator=>MasayukiSuda/FPSAnimator
 Android Animations Kotlin=>gayanvoice/android-animations-kotlin
 Disco=>m1noon/Disco
+shimmer-Android=>facebook/shimmer-android
 
 ##Billing
 InApp Billing v3=>anjlab/android-inapp-billing-v3
@@ -95,6 +96,7 @@ Hello Charts=>lecho/hellocharts-android
 
 ##Chat
 SimpleChatView=>ryanlijianchang/SimpleChatView
+AnyChart-Android=>AnyChart/AnyChart-Android
 
 ##Chips
 ChipsLayoutManager=>BelooS/ChipsLayoutManager
@@ -556,6 +558,7 @@ IPCamView=>marcoscgdev/IPCamView
 ##Video
 Frames=>iammert/Frames
 Video MetaData Provider=>iammert/VideoMetadataProvider
+AndroidVideoCache=>danikula/AndroidVideoCache
 
 ##Wifi
 ReactiveNetwork=>pwittchen/ReactiveNetwork
