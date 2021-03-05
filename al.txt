@@ -325,6 +325,7 @@ Floating LogcatViewer=>weijiaxing/LogcatViewer
 LogcatReporter=>Ereza/LogcatReporter
 DebugOverlay-Android=>Manabu-GT/DebugOverlay-Android
 Lynx=>pedrovgs/Lynx
+MyLogLibrary=>Pulimet/MyLogLibrary
 
 ##Login
 Android-Smart-Login=>CodelightStudios/Android-Smart-Login
