@@ -85,6 +85,13 @@ DialogSheet=>marcoscgdev/DialogSheet
 ##BreadCumb
 BreadcrumbsView=>VictorAlbertos/BreadcrumbsView
 
+##Camera
+Camerakit-android=>CameraKit/camerakit-android
+Android-Image-Cropper=>ArthurHub/Android-Image-Cropper
+SquareCamera=>boxme/SquareCamera
+iCamera=>Shouheng88/iCamera
+HiddenCam=>CottaCush/HiddenCam
+
 ##CardView
 Truffle Shuffle=>intuit/truffle-shuffle
 BoardView=>jakebonk/BoardView
@@ -258,6 +265,11 @@ Clean UI=>JonathandelaSen/CleanUI
 
 ##FilePicker
 Android File Chooser=>hedzr/android-file-chooser
+
+##FilePicker with Camera
+EasyImage=>jkwiecien/EasyImage
+Gligar=>OpenSooq/Gligar
+ImagePicker=>nguyenhoanglam/ImagePicker
 
 ##GraphQL
 Apollo-Android=>apollographql/apollo-android
