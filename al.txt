@@ -122,6 +122,7 @@ Frames-Android=>checkout/frames-android
 DrawingView=>mukeshsolanki/DrawingView-Android
 
 ##Date,Time and Calender
+Temp=>cesarferreira/tempo
 CalenderView Toolbar=>kleisauke/CompactCalendarViewToolbar
 Compact CalenderView=>SundeepK/CompactCalendarView
 
@@ -237,6 +238,10 @@ Email Intent Builder=>cketti/EmailIntentBuilder
 Shelly=>jtribe/shelly
 Maildroid=>nedimf/maildroid
 
+##Encryption-Decryption
+Codia=>alirezaashrafi/Codia
+Seguro=>cesarferreira/seguro
+
 ##Events
 EvTrack=>nisrulz/EvTrack
 
@@ -347,6 +352,7 @@ Android-Smart-Login=>CodelightStudios/Android-Smart-Login
 ##Maps and Location
 EasyMap=>iammert/EasyMap
 Smart Location Lib=>mrmans0n/smart-location-lib
+GoogleMapView=>/alirezaashrafi/GoogleMapView
 
 ##Markdown
 Markwon=>noties/Markwon
