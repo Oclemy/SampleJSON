@@ -26,6 +26,9 @@ FragmentRigger=>JingYeoh/FragmentRigger
 
 ##About
 EasyAbout=>marcoscgdev/EasyAbout
+Android_about_us=>krishnanmuthiahpillai/android_about_us
+AboutUsActivity=>manimaran96/AboutUsActivity
+Nordan=>Dan629pl/nordan-simply-page-android
 
 ##API
 News-API=>mukeshsolanki/News-API-Android
