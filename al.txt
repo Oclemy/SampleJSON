@@ -544,6 +544,8 @@ Swipe Selector=>roughike/SwipeSelector
 
 ##TextView
 ToolTipView=>Cutta/ToolTipView
+HtmlTextView=>SufficientlySecure/html-textview
+HtmlBuilder=>jaredrummler/HtmlBuilder
 
 ##Toast
 MaterialToast=>marcoscgdev/MaterialToast
