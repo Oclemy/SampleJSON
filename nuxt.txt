@@ -40,3 +40,12 @@ nuxt.config=>105
 
 ##Configuration Glossary
 The alias Property=>106
+The build Property=>121
+The buildDir Property=>122
+The cli Property=>123
+The css Property=>124
+The components Property=>125
+The dev Property=>126
+The dir Property=>127
+The env Property=>128
+The extendPlugins Property=>129
