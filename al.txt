@@ -460,6 +460,8 @@ RxMagneto=>aritraroy/RxMagneto
 Stacked Horizontal ProgressBar=>nisrulz/stackedhorizontalprogressbar
 Progress Layout=>iammert/ProgressLayout
 Google ProgressBar=>jpardogo/GoogleProgressBar
+WaveLineView=>Jay-Goo/WaveLineView
+WaveLoadingView=>tangqi92/WaveLoadingView
 
 ##Packages
 Package Hunter=>nisrulz/packagehunter
