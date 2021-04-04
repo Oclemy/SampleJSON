@@ -528,6 +528,8 @@ ShapeOfView=>florent37/ShapeOfView
 AndroidMaterialPreferences=>michael-rapp/AndroidMaterialPreferences
 AndroidPreferenceActivity=>michael-rapp/AndroidPreferenceActivity
 EasyPreferences=>mukeshsolanki/easypreferences
+EasyDataStorage=>neeloyghosh1990/EasyDataStorage
+Reactor=>oky2abbas/reactor
 
 ##Stepper
 VerticalStepperForm=>ernestoyaquello/VerticalStepperForm
