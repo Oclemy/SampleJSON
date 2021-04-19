@@ -596,3 +596,6 @@ ReactiveWiFi=>pwittchen/ReactiveWiFi
 Wifi-Connect=>anitaa1990/Wifi-Connect
 WifiUtils=>ThanosFisherman/WifiUtils
 Wroup=>ble180/Wroup
+WiseFy=>isuPatches/WiseFy
+EasyWifiP2P=>cubesky/EasyWifiP2P
+Android Data Usage=>ibrahimsn98/android-datausage
