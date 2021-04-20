@@ -23,6 +23,7 @@ Instanbul [W](4-0)=>5:47->YLL4EwuvgC4
 PSG [W](1-2)=>5:47->MEtOOsOjCuo
 
 ##Europa League
+Granada [W]=>0->s62xq36K6Wk
 Granada [W](0-2)=>1:53->ujJctbWxNLU
 AC Milan [W](0-1)=>3:45->
 AC Milan (1-1)=>3:45->
@@ -36,5 +37,5 @@ Liverpool [W](3-2)=>4:04->
 
 ##Carabao
 Man City [L](2-0)=>5:42->
-Brighton [W](0-3)=>hi8LkmH4Teso
+Brighton [W](0-3)=>5:42->hi8LkmH4Teso
 Luton [W](0-3)=>0->HEcK757VL24
