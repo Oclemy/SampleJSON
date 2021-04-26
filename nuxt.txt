@@ -81,3 +81,14 @@ The Context=>167
 $nuxt: The Nuxt.js helper=>169
 Nuxt Modules=>170
 Nuxt class=>171
+Renderer=>172
+Module Container=>173
+Builder=>174
+Generator=>175
+Using Nuxt Programmatically=>176
+render=>177
+renderRoute=>178
+renderAndGetWindow=>179
+
+##Components Glossary
+
