@@ -67,4 +67,14 @@ router=>155
 runtimeConfig=>156
 server=>157
 serverMiddleware=>158
+scrDir=>159
+ssr=>160
+target=>161
+telemetry=>162
+transition=>163
+vue.confog=>164
+watch=>165
+watchers=>166
 
+##Internals Glossary
+The Context=>167
