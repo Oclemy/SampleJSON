@@ -78,3 +78,6 @@ watchers=>166
 
 ##Internals Glossary
 The Context=>167
+$nuxt: The Nuxt.js helper=>169
+Nuxt Modules=>170
+Nuxt class=>171
