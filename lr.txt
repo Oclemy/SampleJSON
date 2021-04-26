@@ -8,3 +8,4 @@ Guessing Game=>104
 ##Common Programming Concepts
 Overview=>117
 Variables and Mutability=>119
+Data Types=>121
