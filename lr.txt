@@ -9,3 +9,4 @@ Guessing Game=>104
 Overview=>117
 Variables and Mutability=>119
 Data Types=>121
+Functions=>122
