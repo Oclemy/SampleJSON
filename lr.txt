@@ -4,3 +4,7 @@ Installation=>98
 Hello World=>100
 Hello Cargo=>102
 Guessing Game=>104
+
+##Common Programming Concepts
+Overview=>117
+Variables and Mutability=>119
