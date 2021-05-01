@@ -1,0 +1,31 @@
+##General
+DevBytes: Android Studio=>e0fXuyL0xVU__6:22
+Introduction to Studio=>NCoekcDxbrI__1:22
+Studio Tips/Tricks(Google I/0 2019)=>ESTAJ1XpPsg__41:33
+Deep Dive into Profilers=>LGVbpobV-Yg__41:28
+App Links Assistant=>lpaByLW_ctw__5:00
+Debugging trips and tricks=>rjlhSDhFwzM__18:58
+App Compatibility with Autofill=>POW9AXYO5Zo__9:41
+ConstraintLayout=>XamMbnzI5vE__4:00
+Developing Themes with Styles=>Owkf8DhAOSo__40:56
+Improve Studio Performance=>3TENdS9Qqcc__4:33
+
+##Best Practices
+JNI (2018)=>tA_WrHnvY2w__5:13
+Themes and Styles=>sNSlDfaNq-0__23:17
+Using Compilers (2018)=>gGOOkk2y_Ss__28:07
+Single Activity=>9O1D_Ytk0xg__6:17
+
+##What's New
+Studio 4.1 (2020)=>Yhbr6u7f3ME__10:40
+UI Design and debugging (2019)=>oWTG5g5rT4s__36:49
+C++/Native Support (2019)=>9-oK7MthtJQ__5:08
+Studio 3.5(Deployment Toolbar)=>3kSdNmkcmTE__0:28
+Studio 3.0 Canary (2018)=>rHiA66zUv8c__7:11
+Studio 2.3 (2017)=>VFyKclKBGf0__4:28
+Studio 1.5 (2016)=>BKU-wmTAPdc__2:42
+
+##Developer Stories
+Robinhood Using Studio=>p0JcLbXfYXA__1:47
+Zabob Story=>ZcG4C5cf7n8__2:28
+Peek Games=>eNpDqYoHFZk__3:06
