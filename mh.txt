@@ -13,7 +13,8 @@ Everton (3-3)=>6:19->ZB6wp07_4RU
 Southampton [W](9-0)=>3:09->Y7eEVFq-XC8
 Arsenal (0-0)=>6:19->cSxhMOoczow
 Sheffield Utd [L](2-1)=>6:19->hs6ADjRbnLI
-Wolves [W](1-0)=>6:00->tSYqsPsXKxE
+Aston Villa [W](2-1)=>6:00->PGBzaIcUcrs
+Wolves [W](1-0)=>6:00->PZlZXLoHN_I
 Leicester (2-2)=>6:00->dfdGYg-aaRU
 Leeds Utd [W](6-2)=>6:19->_01i7TvL-3c
 Sheffield Utd [W](2-3)=>6:19->94gw05oLQXY
@@ -53,7 +54,7 @@ West Ham [W](1-0)=>4:04->Va3jl9Le0ss
 Liverpool [W](3-2)=>4:04->I4Hom-7s0Zc
 
 ##Carabao
-Man City [L](2-0)=>5:42->
+Man City [L](2-0)=>5:42->xz7a9h2Epas
 Everton [W](0-2)=>5:42->_XOVh61YWfc
 Brighton [W](0-3)=>5:42->hi8LkmH4Teso
 Luton [W](0-3)=>0->HEcK757VL24
