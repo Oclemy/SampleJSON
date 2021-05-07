@@ -13,6 +13,8 @@ Everton (3-3)=>6:19->ZB6wp07_4RU
 Southampton [W](9-0)=>3:09->Y7eEVFq-XC8
 Arsenal (0-0)=>6:19->cSxhMOoczow
 Sheffield Utd [L](2-1)=>6:19->hs6ADjRbnLI
+Everton [W](1-3)=>7:59->c0uYjp4mIl4
+Arsenal [L](0-1)=>7:45->s5B_O2FqMxM
 Chelsea (0-0)=>7:45->bgOLWziEz2k
 Newcastle [W](1-4)=>7:00->Nyabx9N7LBg
 Totenham [L](1-6)=>7:00->JJfhaKSzPnQ
@@ -23,6 +25,8 @@ Crystal Palace [L](1-3)=>0->NaHIB5KcEDg
 RB Leipzig [L](1-3)=>5:47->zeLLdfLcRU8
 PSG [L](3-1)=>5:07->q4QfTpARqxM
 Instanbul [W](4-0)=>5:47->YLL4EwuvgC4
+Instanbul [L](2-1)=>10:00->JYSy7PrfZ1E
+RB Leipzig [W](5-0)=>5:44->L6IKopQTrnk
 PSG [W](1-2)=>5:47->MEtOOsOjCuo
 
 ##Europa League
