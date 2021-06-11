@@ -1,0 +1,111 @@
+&&&05-05-2021
+
+===Libraries
+
+@@@Artifical Intelligence
+
+##Genetic Algorithms
+Oxigen=>Martin1887/oxigen
+Genevo=>innoave/genevo
+Darwin-rs=>willi-kappler/darwin-rs
+RsGenetic=>m-decoster/RsGenetic
+Evo-rs=>mneumann/evo-rs
+Revonet=>yurytsoy/revonet
+Radiate=>pkalivas/radiate
+
+##Machine Learning
+Linfa=>rust-ml/linfa
+Rusty Machine=>AtheMathmo/rusty-machine
+RusticSOM=>avinashshenoy97/RusticSOM
+Leaf=>autumnai/leaf
+Tensorflow Rust=>tensorflow/rust
+Rust Learn=>maciejkula/rustlearn
+Tch-rs=>LaurentMazare/tch-rs
+Tokenizers=>huggingface/tokenizers
+
+@@@Industry
+
+##Astronomy
+Astro-rust=>saurvs/astro-rust
+Fitsio=>~https://crates.io/crates/fitsio
+Sun=>flosse/rust-sun
+
+@@@Concurrency
+
+##Asynchronous
+Coio=>zonyitoo/coio-rs
+Mioco=>dpc/mioco
+FpRust=>TeaEntityLab/fpRust
+Futures=>rust-lang/futures-rs
+Mio=>tokio-rs/mio
+May=>Xudong-Huang/may
+Runtime=>rustasync/runtime
+
+@@@Media Player
+
+##Audio and Music
+Fmod=>GuillaumeGomez/rust-fmod
+Ears=>jhasse/ears
+Alto=>jpernst/alto
+PortMidi=>musitdev/portmidi-rs
+Hound=>~https://crates.io/crates/hound
+
+===Embedded Rust
+
+@@@Tools
+
+##Build Tools
+Xargo=>japaric/xargo
+Svd2rust=>japaric/svd2rust
+Embedded-hal-mock=>crates/embedded-hal-mock
+Bindgen=>crates/bindgen
+Cortext-m-semihosting=>japaric/cortex-m-semihosting
+Bobbin CLI=>bobbin-rs/bobbin-cli
+Cargo-fel4=>maindotrs/cargo-fel4
+Cargo hf2=>jacobrosenthal/hf2-rs
+uf2conv-rs=>sajattack/uf2conv-rs
+
+@@@Real-Time
+
+##Real-Time OS(RTOS)
+Drone-OS=>~https://drone-os.github.io/
+FreeRTOS=>hashmismatch/freertos.rs
+FreeRTOS-rust=>lobaro/FreeRTOS-rust
+Tock=>~https://www.tockos.org/
+
+##Real-Time Tools
+RTIC=>~https://rtic.rs/0.5/book/en/
+Cortex-m-rtic=>rtic-rs/cortex-m-rtic
+Msp430-rtfm=>/japaric/msp430-rtfm
+
+@@@Peripheral Access Crates
+
+##Microchip
+atsamd=>atsamd-rs/atsamd
+avr-device=>Rahix/avr-device
+sam3x8e=>crates/sam3x8e
+
+##Nordic
+nrf51=>~https://crates.io/crates/nrf51
+
+##NXP
+k64=>~https://crates.io/crates/k64
+lpc11uxx=>~https://crates.io/crates/lpc11uxx
+mkw41z=>~https://crates.io/crates/mkw41z
+
+##SiFive
+e310x=>riscv-rust/e310x
+
+##Silicon labs
+efm32pg12-pac=>~https://crates.io/crates/efm32pg12-pac
+
+##STMicroelectronics
+stm32-rs=>stm32-rs/stm32-rs
+
+===Applications
+
+@@@ Media
+
+##Audio and Music Apps
+Engine Sound=>DasEtwas/enginesound
+zrtstr=>indiscipline/zrtstr
