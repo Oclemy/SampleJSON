@@ -1,0 +1,2 @@
+Tooltipsy=>briancray/tooltipsy
+Tipsy=>jaz303/tipsy
