@@ -418,6 +418,9 @@ Noty=>emre1512/Noty
 Flashbar=>aritraroy/Flashbar
 Minibar=>mayuroks/minibar
 
+##NumberPicker
+NumberSlidingPicker=>sephiroth74/NumberSlidingPicker
+
 ##Rating
 Easy Rating Dialog=>fernandodev/easy-rating-dialog
 Android-RateThisApp=>kobakei/Android-RateThisApp
