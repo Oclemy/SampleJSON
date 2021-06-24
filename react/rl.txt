@@ -1,2 +1,3 @@
 ##Tooltips
 Tooltip=>react-component/tooltip
+React Tooltip=>wwayne/react-tooltip
