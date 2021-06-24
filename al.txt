@@ -547,9 +547,18 @@ DraggableTreeView=>jakebonk/DraggableTreeView
 Swipe Selector=>roughike/SwipeSelector
 
 ##TextView
-ToolTipView=>Cutta/ToolTipView
 HtmlTextView=>SufficientlySecure/html-textview
 HtmlBuilder=>jaredrummler/HtmlBuilder
+
+##Tooltip
+Target Tooltip=>sephiroth74/android-target-tooltip
+ToolTipView=>Cutta/ToolTipView
+Tooltip=>ViHtarb/Tooltip
+Tooltips=>tomergoldst/tooltips
+ViewTooltips=>florent37/ViewTooltip
+Simple Tooltip=>douglasjunior/android-simple-tooltip
+ToolTip=>jayrambhia/Tooltip
+Tooltip View=>venmo/tooltip-view
 
 ##Toast
 MaterialToast=>marcoscgdev/MaterialToast
