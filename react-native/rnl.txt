@@ -1,2 +1,28 @@
 ##Bluetooth
 Easy Bluetooth LE=>douglasjunior/react-native-easybluetooth-le
+
+##DateTimePicker
+React-Native datepicker=>xgfe/react-native-datepicker
+
+##Dialog
+Simple Dialogs=>douglasjunior/react-native-simple-dialogs
+
+##Image
+PhotoView=>alwx/react-native-photo-view
+
+##KeyBoard
+Keyboard Manager=>douglasjunior/react-native-keyboard-manager
+
+##Location
+Get Location=>douglasjunior/react-native-get-location
+
+##Notifications
+NotiFree=>/douglasjunior/react-native-notifree
+
+##Recaptcha
+Recaptcha=>douglasjunior/react-native-recaptcha-that-works
+
+##SharedPreferences
+RN User Defaults=>RocketChat/rn-user-defaults
+
+
