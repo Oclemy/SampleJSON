@@ -1,30 +1,58 @@
-##Latest
-The Congo: Militias and violence=>kBH_x7rkU2o__12:32->Short,Militia
-Chernobyl: 35 years after the nuclear disaster=>MjCFw3EQNBU__42:27
-Germany's biggest postwar financial scandal=>RbJKBWl7aqg__42:27->Economy
-Smartphones, computers and consoles – children and digital media=>Q1pLYxD4Yic__42:27->Technology
-Can Europe's forests still be saved?=>JB2uBLrNMdE__42:27->Nature
-Myanmar – one woman versus the military=>B0W9fYhMM5g__28:27->Politics
-Contest of the cathedrals – the Gothic period=>4eGWHxbTSO8__42:27->Religion
-Thai boxing for all – women in the ring=>hEcaMKgnsjE__42:27__Women
+___VERSION__2
+
+@@@General
 
 ##Most Watched
-How Poor People Survive in the USA=>JHDkALRz5Rk__42:31->Poverty
+How Poor People Survive in the USA=>JHDkALRz5Rk__42:31
 Brides for Sale - Bulgraria's Roma Marriage market=>1ReFNdkQ5Y8__26:16
-Life in North Korea=>StjIv33zJ9c__42:26->Politics
-Better Brain Health=>TLpbfOJ4bJU__42:32->Health
+Life in North Korea=>StjIv33zJ9c__42:26
+Better Brain Health=>TLpbfOJ4bJU__42:32
 The Mennonites - A trip back in time=>Pt_XU4W4DBA__42:26
 North Korea - All the dictator's men=>JmqV2vIXpUY__42:31
-Kiribati - A drowning Paradise in South Paciffic=>TZ0j6kr4ZJ0__42:56->Climate Change
+Kiribati - A drowning Paradise in South Paciffic=>TZ0j6kr4ZJ0__42:56
 
 ##Editor's Choice
 China's gateway to Europe - The new silk road(1/2)=>VfBnT0tsLqGQ__42:30
 China's gateway to Europe - The new silk road(2/2)=>V2C0sMXyD80__42:27
 Oil promises - How oil changed a country=>b58b-BvWEpo__1:24:53
 Africa's Looted Art=>3RXlVr_15JY__42:27->History
-Preserving Gaza's Photographic History=>wlqckvL8MSA__42:25->History
+Preserving Gaza's Photographic History=>wlqckvL8MSA__42:25
 The Russians - An intimate journey through Russia(1/2)=>qfuDZEQjro8__42:20
 The Russians - An intimate journey through Russia(2/2)=>z35dX3EEGko__42:20
 Indonesia - Diversity under threa=>pD58Dj648gM__42:26
-Corona Diaries=>cNdiPqExPKs__42:36->Covid-19
-Jewish life in Poland=>psWarhwc4eY__42:26->Religion
+Corona Diaries=>cNdiPqExPKs__42:36
+Jewish life in Poland=>psWarhwc4eY__42:26
+
+@@@Crisis
+
+##Disasters
+Chernobyl: 35 years after the nuclear disaster=>MjCFw3EQNBU__42:27
+
+##Finance
+Germany's biggest postwar financial scandal=>RbJKBWl7aqg__42:27->Economy
+
+@@@Technology
+
+##Digital Media
+Smartphones, computers and consoles – children and digital media=>Q1pLYxD4Yic__42:27
+
+@@@Nature
+##Forests
+Can Europe's forests still be saved?=>JB2uBLrNMdE__42:27
+
+@@@Politics
+##Activism
+Myanmar – one woman versus the military=>B0W9fYhMM5g__28:27
+
+##Feminism
+Thai boxing for all – women in the ring=>hEcaMKgnsjE__42:27
+
+@@@Religion
+##Church
+Contest of the cathedrals – the Gothic period=>4eGWHxbTSO8__42:27
+
+@@@Short
+
+##Militia
+The Congo: Militias and violence=>kBH_x7rkU2o__12:32
+
