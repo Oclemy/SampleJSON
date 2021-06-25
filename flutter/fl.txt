@@ -1,4 +1,8 @@
 
+##Bluetooth
+Bluetooth Serial=>edufolly/flutter_bluetooth_serial
+Flutter Blue=>pauldemarco/flutter_blue
+
 ##ShowCaseView
 Flutter ShowcaseView=>SimformSolutionsPvtLtd/flutter_showcaseview
 Introduction Tooltip=>blackmenthor/flutter-introduction-tooltip
