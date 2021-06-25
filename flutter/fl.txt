@@ -3,6 +3,9 @@
 Bluetooth Serial=>edufolly/flutter_bluetooth_serial
 Flutter Blue=>pauldemarco/flutter_blue
 
+##Form
+Folly Fields=>edufolly/folly_fields
+
 ##ShowCaseView
 Flutter ShowcaseView=>SimformSolutionsPvtLtd/flutter_showcaseview
 Introduction Tooltip=>blackmenthor/flutter-introduction-tooltip
