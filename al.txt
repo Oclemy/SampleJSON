@@ -162,6 +162,12 @@ CameraVideoButton=>iammert/CameraVideoButton
 Spark Button=>varunest/SparkButton
 TapHoldUpButton=>abdularis/TapHoldUpButton
 MaterialFancyButtons=>joielechong/MaterialFancyButtons
+ToggleButtonLayout=>savvyapps/ToggleButtonLayout
+Themed Toggle Button=>Bryanx/themed-toggle-button-group
+ToggleButton=>zcweng/ToggleButton
+ToggleButtonGroup=>nex3z/ToggleButtonGroup
+TriStateToggleButton=>BeppiMenozzi/TriStateToggleButton
+multistatetogglebutton=>jlhonora/multistatetogglebutton
 
 ##Caching
 Reservoir=>anupcowkur/Reservoir
