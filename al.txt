@@ -524,6 +524,12 @@ Overscroll Decor=>EverythingMe/overscroll-decor
 ##SearchView
 Floating SearchView=>renaudcerrato/FloatingSearchView
 MultiSearchView=>iammert/MultiSearchView
+MaterialDialogSearchView=>TakeoffAndroid/MaterialDialogSearchView
+
+##SearchDialog
+Search-Dialog=>mirrajabi/search-dialog
+Searchable Spinner=>MdFarhanRaja/SearchableSpinner
+SearchDialog=>ajithvgiri/search-dialog
 
 ##SeekBar and Ranges
 Material Range Bar=>oli107/material-range-bar
