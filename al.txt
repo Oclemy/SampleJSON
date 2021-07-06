@@ -555,6 +555,9 @@ TabScrollAttacher=>iammert/TabScrollAttacher
 SnapTabLayout=>nirukk52/SnapTabLayout
 Bubble Navigation=>joielechong/bubble-navigation
 
+##Threads
+EasyThread=>yjfnypeu/EasyThread
+
 ##TreeView
 DraggableTreeView=>jakebonk/DraggableTreeView
 
