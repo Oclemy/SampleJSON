@@ -31,6 +31,27 @@ Indonesia - Diversity under threa=>pD58Dj648gM__42:26
 Corona Diaries=>cNdiPqExPKs__42:36
 Jewish life in Poland=>psWarhwc4eY__42:26
 
+@@@History
+
+##Art
+Who is Mona Lisa=>e5F1v_osAV0__42:27
+
+##World War
+World War 2 - The Final Months=>XHZKT6y-Zrg__42:32
+Hurtgen Forest and the end of World War II=>tT0ob3cHPmE__42:32
+100 Years after World War I=>BY0RbbmHPdk__12:01
+Nazis on Trial=>qMbaY8dCfUM__12:32
+What did the Pope Know about Holocaust=>5JDgasDHZv0__42:27
+
+##Civil War
+War on Trial Part 2 - Yugoslavia=>BXnfaanesVs__42:26
+War on Trial Part 1 - Yugoslavia=>Aks4or5hx5k__42:26
+Rwanda - 25 years after genocide=>8lV1RubWD8Y__28:31
+The Congo: Militias and violence=>kBH_x7rkU2o__12:32
+Colombia - The Long road to Peace after civil war=>xO6AnTc0OE8__42:32
+Children of War: After Aleppo=>AcvNuQ3AFEs__12:32
+Yemen: Kids and the War=>wpdZZF8t9x0__42:32
+
 @@@Crisis
 
 ##Disasters
@@ -38,21 +59,7 @@ Chernobyl: 35 years after the nuclear disaster=>MjCFw3EQNBU__42:27
 Orlando - Five fears after massacre=>vySk5UUh-gY__12:28
 Fighting the floods - How not to lose a city=>9BTrzAGhy8U__12:59
 
-##War
-War on Trial Part 2 - Yugoslavia=>BXnfaanesVs__42:26
-War on Trial Part 1 - Yugoslavia=>Aks4or5hx5k__42:26
-How does North Korea finance Nuclear Weapons=>ib9Z7lublQE__42:26
-Chemical Weapons in Germany=>Mp-HhTucfhE__42:27
-The Congo: Militias and violence=>kBH_x7rkU2o__12:32
-World War 2 - The Final Months=>XHZKT6y-Zrg__42:32
-Colombia - The Long road to Peace after civil war=>xO6AnTc0OE8__42:32
-Children of War: After Aleppo=>AcvNuQ3AFEs__12:32
-Yemen: Kids and the War=>wpdZZF8t9x0__42:32
-Hurtgen Forest and the end of World War II=>tT0ob3cHPmE__42:32
-Nazis on Trial=>qMbaY8dCfUM__12:32
-What did the Pope Know about Holocaust=>5JDgasDHZv0__42:27
-100 Years after WOrld War I=>BY0RbbmHPdk__12:01
-Yemen and Global Arms Trade=>tkUv2R97I-Y__26:32
+
 
 ##Terrorism
 Hunting Down the mafia in italy=>Lb_dBYkVVCI__28:27
@@ -61,6 +68,10 @@ Naple's new blood and the Mafia=>Vl2DMciDYDE__12:27
 Fighting the Islamists - Germany's Deployment in Mali=>H4SUypWjfYY__12:01
 IS targets Philipines=>85RqiMMNmUI__42:31
 France: The holy war behind wars=>f9NtIg6jDA0__4:50
+
+##Radicals and neo-Nazis
+Nazi Prejudice & Propaganda - Racism againts 'children of shame'=>J26kgGn5TdQ__42:26
+What neo-Nazis have inherited from the Nazism=>rcCu3Yia6WU__42:26
 
 ##Abuse
 Exploiting the Poor - Sex Slavery in Europe=>u7bSW99yMIY__28:26
@@ -121,6 +132,9 @@ The business of fertility=>7nJkKOODqlI__28:26
 Hunting down the chocolate=>_y1pfmm95nk__42:27
 How to avoid microplastics in your food=>acMYHAmNLlE__12:27
 
+##Covid-19
+Corona's Consequences-How the pandemic is changing globalization=>j1z-gVc6HZg__42:27
+
 
 @@@Technology
 
@@ -167,8 +181,13 @@ Morocco's Warrior Women=>nRFiSYnif-0__42:25
 ##Communism
 Moutai - China's communist spirit=>NiSStDkawcE__12:27
 
+##Weapons
+How does North Korea finance Nuclear Weapons=>ib9Z7lublQE__42:26
+Chemical Weapons in Germany=>Mp-HhTucfhE__42:27
+Yemen and Global Arms Trade=>tkUv2R97I-Y__26:32
+
 ##Germany
-Apalace for Berlin and the world=>P392ewvC_w4__42:26
+A palace for Berlin and the world=>P392ewvC_w4__42:26
 
 ##Europe
 Brexit Frustration - Five years after referendum=>hYeS0xtCB1c__28:28
