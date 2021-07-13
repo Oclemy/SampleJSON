@@ -577,6 +577,9 @@ HtmlBuilder=>jaredrummler/HtmlBuilder
 ##TetxtView Animation
 Ticker=>robinhood/ticker
 
+##TextureView
+ZoomableTextureView=>Manuiq/ZoomableTextureView
+
 ##Tooltip
 Target Tooltip=>sephiroth74/android-target-tooltip
 ToolTipView=>Cutta/ToolTipView
