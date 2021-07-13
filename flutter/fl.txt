@@ -10,6 +10,7 @@ Mast Text Input Formatter=>siqwin/mask_text_input_formatter
 ##Marquee
 marquee_widget=>yousifk/marquee_widget
 marquee=>marcelgarus/marquee
+flutter-marquee-text=>zhcode-fun/flutter-marquee-text
 
 ##ShowCaseView
 Flutter ShowcaseView=>SimformSolutionsPvtLtd/flutter_showcaseview
