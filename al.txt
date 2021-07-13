@@ -103,6 +103,7 @@ BoardView=>jakebonk/BoardView
 MPAndroidChart=>PhilJay/MPAndroidChart
 Android Charts=>HackPlan/AndroidCharts
 Hello Charts=>lecho/hellocharts-android
+Spark=>robinhood/spark
 
 ##Chat
 SimpleChatView=>ryanlijianchang/SimpleChatView
