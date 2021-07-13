@@ -1,5 +1,6 @@
-##Label
+##Marquee
 EFAutoScrollLabel=>EFPrefix/EFAutoScrollLabel
 MarqueeLabel=>cbpowell/MarqueeLabel
 MarqueeText=>joekndy/MarqueeText
 GrowingTextView=>teambition/GrowingTextView
+Marquee=>SwiftUIKit/Marquee
