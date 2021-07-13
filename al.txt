@@ -314,6 +314,11 @@ CircularImageView=>abdularis/CircularImageView
 ##ImageEditor
 PhotoFilter=>mukeshsolanki/photofilter
 
+##Image Slider
+Sliding-Carousel=>akshaaatt/Sliding-Carousel
+Pluto=>OpenSooq/Pluto
+AutoImageFlipper=>therealshabi/AutoImageFlipper
+
 ##Intent
 Omega Intent Builder=>Omega-R/OmegaIntentBuilder
 Intent Share=>tvbarthel/IntentShare
@@ -567,6 +572,9 @@ Swipe Selector=>roughike/SwipeSelector
 ##TextView
 HtmlTextView=>SufficientlySecure/html-textview
 HtmlBuilder=>jaredrummler/HtmlBuilder
+
+##TetxtView Animation
+Ticker=>robinhood/ticker
 
 ##Tooltip
 Target Tooltip=>sephiroth74/android-target-tooltip
