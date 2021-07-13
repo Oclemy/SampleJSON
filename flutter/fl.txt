@@ -7,6 +7,10 @@ Flutter Blue=>pauldemarco/flutter_blue
 Folly Fields=>edufolly/folly_fields
 Mast Text Input Formatter=>siqwin/mask_text_input_formatter
 
+##Marquee
+marquee_widget=>yousifk/marquee_widget
+marquee=>marcelgarus/marquee
+
 ##ShowCaseView
 Flutter ShowcaseView=>SimformSolutionsPvtLtd/flutter_showcaseview
 Introduction Tooltip=>blackmenthor/flutter-introduction-tooltip
