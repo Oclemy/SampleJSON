@@ -147,8 +147,14 @@ Blue Falcon=>Reedyuk/blue-falcon
 LM Bluetooth SDK=>whilu/LMBluetoothSdk
 
 ##Bottom Navigation
-BottomBar=>roughike/BottomBar
+BottomNavigation=>Ashok-Varma/BottomNavigation
 Readable BottomBar=>iammert/ReadableBottomBar
+Material-BottomNavigation=>sephiroth74/Material-BottomNavigation
+BottomNavigationViewEx=>ittianyu/BottomNavigationViewEx
+PagerBottomTabStrip=>tyzlmjj/PagerBottomTabStrip
+MeowBottomNavigation=>oneHamidreza/MeowBottomNavigation
+BottomBar=>roughike/BottomBar
+
 
 ##Buttons
 Fabulous Filter=>Krupen/FabulousFilter
