@@ -7,8 +7,16 @@ Run Your App=>first_app/run-your-app
 Build a simple UI=>first_app/building-ui
 Start Another Activity=>first_app/starting-activity
 
-##Fundamentals
-App Fundamentals=>first_app/fundamentals
+@@@App Basics
+
+##Components
+App Fundamentals=>http://apps.camposha.info/wp-content/uploads/md/android/app-basics/components/fundamentals
+
+##Localization
+Localizationn=>http://apps.camposha.info/wp-content/uploads/md/android/app-basics/localization/localization
+Internationalization=>http://apps.camposha.info/wp-content/uploads/md/android/app-basics/localization/internationalization
+Pseudolocales=>http://apps.camposha.info/wp-content/uploads/md/android/app-basics/localization/pseudolocales
+Multilingual Support=>http://apps.camposha.info/wp-content/uploads/md/android/app-basics/localization/multilingual-support
 
 @@@App Resources
 
