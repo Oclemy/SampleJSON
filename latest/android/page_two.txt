@@ -1,0 +1,56 @@
+@@@Introduction
+
+##Getting Started
+Overview=>intro
+Installation=>install
+Migrate=>migrate
+Configure=>studio_config
+Keyboard Shortcuts=>keyboard_shortcuts
+Accessibility=>accessibility
+Update=>update
+
+@@@Workflow
+
+##Workflow
+Basics=>workflow
+
+##Manage Projects
+Overview=>projects
+Create Project=>create_project
+Create Library=>android_library
+Add Native Code=>add_native_code
+Install NDK and CMake=>install_ndk
+Configure AGP for NDK=>configure_agp_ndk
+Configure CMake=>configure_cmake
+Link Gradle=>gradle_external_native_builds
+Setup CI=>continuous_integration
+
+@@@Projects
+
+##Write
+Overview=>write
+Templates=>templates
+Sample Code=>sample_code
+App Module=>add_app_module
+Create Java class=>create_java_class
+Java8 Features=>java8_support
+Java8 Support Table=>java8_support_table
+App Resources=>add_resources
+Layout Editor=>layout_editor
+Motion Editor=>motion_editor
+Resource Manager=>resource_manager
+Design Theme=>theme_editor
+Vector Graphics=>vector_asset_studio
+Resizable Bitmaps=>draw9patch
+Create WebP Images=>convert_webp
+Translations Editor=>translations_editor
+App Links=>app_link_editing
+Connect to Firebase=>firebase
+Lint Checks=>lint
+Code Inspection=>tool_annotations
+Tool Attributes=>tool_attributes
+
+##Build and Run
+Overview=>run
+Emulator=>emulator
+AVDs=>manage_avds
