@@ -1,0 +1,89 @@
+@@@Getting Started
+
+##Introduction
+Home=>home
+Get started=>getting-started
+
+##Kotlin overview
+Multiplatform programming=>multiplatform
+Kotlin for server side=>server-overview
+Kotlin for Android=>android-overview
+Kotlin for JavaScript=>js-overview
+Kotlin Native=>native-overview
+Kotlin for data science=>data-science-overview
+Kotlin for competitive programming=>competitive-programming
+
+@@@Features
+
+##What's new
+Kotlin 1.5.30=>whatsnew1530
+Kotlin 1.5.20=>whatsnew1520
+Kotlin 1.5.0=>whatsnew15
+
+##Earlier versions
+Kotlin 1.4.30=>whatsnew1430
+Kotlin 1.4.20=>whatsnew1420
+Kotlin 1.4.0=>whatsnew14
+Kotlin 1.3=>whatsnew13
+Kotlin 1.2=>whatsnew12
+Kotlin 1.1=>whatsnew11
+
+##Kotlin plugin
+Kotlin plugin 2021.2=>whatsnew-plugin-20212
+Kotlin plugin 2021.1=>whatsnew-plugin-20211
+Kotlin plugin 2020.3=>whatsnew-plugin-20203
+
+@@@Syntax
+
+##Basics
+Basic syntax=>basic-syntax
+Idioms=>idioms
+Coding conventions=>coding-conventions
+
+@@@Language Constructs
+
+##Types
+Basic types=>basic-types
+Type checks and casts=>typecasts
+
+##Control flow
+Conditions and loops=>control-flow
+Returns and jumps=>returns
+Exceptions=>exceptions
+Packages and imports=>packages
+
+@@@Object Oriented Programming
+
+##Classes and objects
+Classes=>classes
+Inheritance=>inheritance
+Properties=>properties
+Interfaces=>interfaces
+Functional (SAM) interfaces=>fun-interfaces
+Visibility modifiers=>visibility-modifiers
+Extensions=>extensions
+Data classes=>data-classes
+Sealed classes=>sealed-classes
+Generics: in, out, where=>generics
+Nested and inner classes=>nested-classes
+Enum classes=>enum-classes
+Inline classes=>inline-classes
+Object expressions and declarations=>object-declarations
+Delegation=>delegation
+Delegated properties=>delegated-properties
+Type aliases=>type-aliases
+
+##Functions
+Functions=>functions
+Lambdas=>lambdas
+Inline functions=>inline-functions
+Operator overloading=>operator-overloading
+Type-safe builders=>type-safe-builders
+Null safety=>null-safety
+Equality=>equality
+This expressions=>this-expressions
+Asynchronous programming techniques=>async-programming
+Coroutines=>coroutines-overview
+Annotations=>annotations
+Destructuring declarations=>destructuring-declarations
+Reflection=>reflection
