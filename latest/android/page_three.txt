@@ -1,0 +1,196 @@
+@@@Components
+
+##Activity
+Test=>test
+Test2=>test
+Activity=>android-activity
+Lifecycle=>android-activity-lifecycle
+
+##More Components
+BroadcastReceiver=>android-broadcastreceiver
+ContentProvider=>android-contentprovider
+
+##Data Passing
+Data Passing Libraries=>android-data-passing-libraries
+
+##Scheduler
+AlarmManager=>android-alarm-manager
+Timer=>android-timer-libraries
+Repetitive Tasks=>android-repetitive-tasks-libraries
+
+##Animation
+Transition Animations=>activity-transitions
+SharedElement Transition=>android-shared-element-transition
+Text Animation=>android-text-animation-libraries
+
+##DateTime
+DateTime Libraries=>android-datetime-libraries
+
+@@@Action Views
+
+##Buttons
+ToggleButton=>android-togglebutton
+FloatingActionButton=>android-floatingactionbutton-libraries
+
+@@@Input Views
+
+##Editor
+Rich Editor=>android-rich-text-editor
+ConsoleView=>android-console
+
+##ItemPickers
+NumberPicker=>android-numberpicker-solutions
+CountryPicker=>android-countrypicker-libraries
+
+@@@Content Views
+
+##ContentViews
+CodeView=>android-codeview-libraries
+Markdown=>android-markdown-libraries
+
+@@@Layouts
+
+##CardView
+Swipe Cards=>android-swipe-cards
+
+##SwipeRefresh
+SwipeRefreshLayout=>android-swiperefreshlayout
+
+@@@Listing Views
+
+##Adapter
+Adapters=>android-adapters
+
+##ListView
+Basic Examples=>andorid-listview-collection
+
+@@@Dialogs
+
+##Toasts
+Tooltip=>android-tooltip-solutions
+
+##Dialogs
+Dialog Libraries=>android-dialog-libraries
+
+##Sheets
+DialogSheet=>android-dialogsheet-libraries
+
+@@@Pages
+
+##Design Pages
+Login/Signup=>android-login-signup
+Dashboard=>android-dashboard
+
+##Full Pages
+About Us=>android-about-us-page
+License Page=>android-license-libraries
+AboutUs Libraries=>android-about-us-page-libraries
+
+##Custom Pages
+StoryView=>android-storyview
+StatusView=>android-statusview-libraries
+IntroView=>android-onboarding-libraries
+
+@@@Navigation
+
+##ToolBar
+ToolBar=>android-toolbar
+BreadcrumbView=>android-breadcrumbiew-libraries
+ToolBar Libraries=>android-appbar-toolbar-libraries
+
+##ViewPager and Tabs
+TabLayout=>android-tablayout
+
+##BottomNavigation
+AH Bottom Navigation=>android-ahbottomnavigation
+BottomNavigation Libraries=>android-bottom-navigation-libraries
+
+##NavigationDrawer
+NavigationDrawer Libraries=>android-navigationdrawer-libraries
+
+
+
+@@@Media
+
+##Image
+Take Screenshot=>android-take-screenshots
+Compression=>android-compressor-solutions
+Image Carousel=>android-image-carousel
+ImagePicker=>android-imagepicker-libraries
+
+##ImageView
+Zoomable ImageView=>android-zoomable-imageview
+GifView=>android-gifview-solutions
+
+##Image Loading
+ImageLoaders=>android-imageloaders
+ImageLoading Animations=>android-imageloading-animations-solutions
+
+##Music
+Music Player UI=>android-music-player-ui
+
+##YouTube
+YouTubePlayer=>android-youtube-player-libraries
+
+##Camera
+Photo Capture Libraries=>android-photo-capture-libraries
+CameraButton=>android-camera-button
+
+@@@Threading anc Concurrency
+
+##MultiThreading
+Threads=>android-threads
+
+@@@Revenue
+
+##Billing
+InApp Purchase=>android-google-in-app-purchase-libraries
+
+@@@Tooling
+
+##Binding
+ViewBinding=>android-viewbinding
+
+##Dexing
+Accelerate MultiDex=>android-multidex
+
+##IDE
+Android Studio=>android-studio
+
+
+@@@Security
+
+##Cryptography
+Encryption Decryption=>android-encryption-decryption
+
+@@@Database
+
+##SharedPreferences
+Sharedprefrences=>android-sharedpreferences
+
+##SQLite
+SQLite Libraries=>android-sqlite-libraries
+
+
+@@@HTTP
+
+##Downloader
+Any File Loader=>android-file-loader
+
+##URL
+Uri=>android-uri
+URL Preview=>android-url-preview
+
+##Retrofit
+Retrofit=>android-retrofit
+
+@@@System
+
+##Introduction
+How Android Works=>how-android-works
+
+##Data
+Data Usage=>android-data-usage
+
+##Bluetooth
+Bluetooth=>android-bluetooth-solutions
