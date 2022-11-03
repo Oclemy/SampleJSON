@@ -1,0 +1,121 @@
+@@@Introduction
+
+##Building Your First App
+Overview=>first_app/first-app
+Create Android Project=>first_app/creating-project
+Run Your App=>first_app/run-your-app
+Build a simple UI=>first_app/building-ui
+Start Another Activity=>first_app/starting-activity
+
+##Fundamentals
+App Fundamentals=>first_app/fundamentals
+
+@@@App Resources
+
+##App Resources
+App Resources Overview=>resources/providing-resources
+Handle Configuration Changes=>resources/runtime-changes
+
+##Localization
+Localize Your App=>resources/localization
+Test with Pseudolocales=>resources/pseudolocales
+Unicode and Internationalization=>resources/internationalization
+Language and Locale Resolution=>resources/multilingual-support
+
+##Complex XML Resources
+Complex XML Resources=>resources/complex-xml-resources
+
+##Resource Types
+Animation=>resources/animation-resource
+Color state list=>resources/color-list-resource
+Drawable=>resources/drawable-resource
+Layout=>resources/layout-resource
+Menu=>resources/menu-resource
+String=>resources/string-resource
+Style=>resources/style-resource
+Font=>resources/font-resource
+More Font types=>resources/more-resources
+
+@@@Manifest
+
+##App Manifest File
+App Manifest Overview=>manifest/manifest-intro
+action=>manifest/action-element
+activity=>manifest/activity-element
+activity-alias=>manifest/activity-alias-element
+application=>manifest/application-element
+category=>manifest/category-element
+compatible-screens=>manifest/compatible-screens-element
+data=>manifest/data-element
+grant-uri-permission=>manifest/grant-uri-permission-element
+instrumentation=>manifest/instrumentation-element
+intent-filter=>manifest/intent-filter-element
+manifest=>manifest/manifest-element
+
+@@@Core Topics
+
+##App Compatibility
+App Compatiblity=>compatibility/app-compatibility
+Compatibility framework tools=>compatibility/test-debug
+Restrictions on non-SDK interfaces=>compatibility/restrictions-non-sdk-interfaces
+
+##Intents and Filters
+Intents & Intent Filters=>intents/intents-filters
+Common Intents=>intents/intents-common
+
+##Services
+Services overview=>services/services
+Foreground Services=>services/foreground-services
+Bound Services=>services/bound-services
+AIDL Overview=>services/aidl
+
+##Sensors
+Sensors=>sensors/sensors
+Sensors Overview=>sensors/sensors_overview
+Motion Sensors=>sensors/sensors_motion
+Position Sensors=>sensors/sensors_position
+Environment Sensors=>sensors/sensors_environment
+Raw GNSS Measurements=>sensors/gnss
+
+@@@Camera & CameraX
+
+##Camera
+Camera API=>camera/camera
+Taking Photos=>camera/photobasics
+Recording Videos=>camera/videobasics
+Controlling the Camera=>camera/cameradirect
+
+##Camera2
+Camera2 Overview=>camera2/camera2
+Capture sessions & Requests=>camera2/capture-session-requests
+Camera Enumeration=>camera2/camera-enumeration
+Use Multiple Camera streams=>camera2/multiple-camera-streams-simultaneously
+Camera preview on large screens=>camera2/camera-preview-large-screens
+Multi-Camera API=>camera2/multi-camera
+Extensions API=>camera2/extensions-api
+
+##CameraX
+CameraX Overview=>camerax/camerax-overview
+CameraX Architecture=>camerax/camerax-architecture
+CameraX Configuration=>camerax/camerax-configuration
+
+##CameraX Use cases
+CameraX Preview=>camerax/camerax-preview
+CameraX Image Capture=>camerax/camerax-take-photo
+CameraX Image Analysis=>camerax/camerax-analyze
+CameraX Video Capture=>camerax/camerax-video-capture
+
+##CameraX Advanced
+Extensions API=>camerax/camerax-vendor-extensions
+Transform Output=>camerax/camerax-transform-output
+Rotations=>camerax/camerax-orientation-rotation
+
+@@@Bundling
+
+##App Bundle
+App Bundle=>app-bundle/app-bundle
+Configure base module=>app-bundle/configure-base
+Build and Test Bunlde=>app-bundle/test
+Add Code Transparency=>app-bundle/code-transparency
+FAQ=>app-bundle/faq
+
