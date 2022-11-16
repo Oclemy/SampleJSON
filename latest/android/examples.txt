@@ -1,196 +1,454 @@
-@@@Components
+
+##Accelerometer
+Simple Accelerometer Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/enzoftware__android-accelerometer===16-11-2022
+Accelerometer Experimentation=>https://apps.camposha.info/wp-content/uploads/md/android/examples/indently__accelerometer===17-11-2022
+
+##Accessibility
+Accessibility Examples - Kotlin Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/accessibility===18-11-2022
+Kotlin Android App Shortcuts Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/app-shortcuts===16-11-2022
+
+##Account
+Android Account and AccountManager Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/account
 
 ##Activity
-Test=>test
-Test2=>test
-Activity=>android-activity
-Lifecycle=>android-activity-lifecycle
-
-##More Components
-BroadcastReceiver=>android-broadcastreceiver
-ContentProvider=>android-contentprovider
-
-##Data Passing
-Data Passing Libraries=>android-data-passing-libraries
-
-##Scheduler
-AlarmManager=>android-alarm-manager
-Timer=>android-timer-libraries
-Repetitive Tasks=>android-repetitive-tasks-libraries
-
-##Animation
-Transition Animations=>activity-transitions
-SharedElement Transition=>android-shared-element-transition
-Text Animation=>android-text-animation-libraries
-
-##DateTime
-DateTime Libraries=>android-datetime-libraries
-
-@@@Action Views
-
-##Buttons
-ToggleButton=>android-togglebutton
-FloatingActionButton=>android-floatingactionbutton-libraries
-
-@@@Input Views
-
-##Editor
-Rich Editor=>android-rich-text-editor
-ConsoleView=>android-console
-
-##ItemPickers
-NumberPicker=>android-numberpicker-solutions
-CountryPicker=>android-countrypicker-libraries
-
-@@@Content Views
-
-##ContentViews
-CodeView=>android-codeview-libraries
-Markdown=>android-markdown-libraries
-
-@@@Layouts
-
-##CardView
-Swipe Cards=>android-swipe-cards
-
-##SwipeRefresh
-SwipeRefreshLayout=>android-swiperefreshlayout
-
-@@@Listing Views
+Kotlin Android Activity Transition Animation Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/activity-transitions
+Best Android Data Passing and Routing Libraries in 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-data-passing-libraries
+How to Create a Single Page Login and  Signup Page - Kotlin Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-login-signup
 
 ##Adapter
-Adapters=>android-adapters
+AdapterView - How to get the selected item=>https://apps.camposha.info/wp-content/uploads/md/android/examples/adapterview
 
-##ListView
-Basic Examples=>andorid-listview-collection
+##Advertisement
+Kotlin Android Firebase AdMob Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase-admob
 
-@@@Dialogs
+##Analytics
+Kotlin Android Firebase Google Analytics Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase-google-analytics
 
-##Toasts
-Tooltip=>android-tooltip-solutions
-
-##Dialogs
-Dialog Libraries=>android-dialog-libraries
-
-##Sheets
-DialogSheet=>android-dialogsheet-libraries
-
-@@@Pages
-
-##Design Pages
-Login/Signup=>android-login-signup
-Dashboard=>android-dashboard
-
-##Full Pages
-About Us=>android-about-us-page
-License Page=>android-license-libraries
-AboutUs Libraries=>android-about-us-page-libraries
-
-##Custom Pages
-StoryView=>android-storyview
-StatusView=>android-statusview-libraries
-IntroView=>android-onboarding-libraries
-
-@@@Navigation
-
-##ToolBar
-ToolBar=>android-toolbar
-BreadcrumbView=>android-breadcrumbiew-libraries
-ToolBar Libraries=>android-appbar-toolbar-libraries
-
-##ViewPager and Tabs
-TabLayout=>android-tablayout
-
-##BottomNavigation
-AH Bottom Navigation=>android-ahbottomnavigation
-BottomNavigation Libraries=>android-bottom-navigation-libraries
-
-##NavigationDrawer
-NavigationDrawer Libraries=>android-navigationdrawer-libraries
-
-
-
-@@@Media
-
-##Image
-Take Screenshot=>android-take-screenshots
-Compression=>android-compressor-solutions
-Image Carousel=>android-image-carousel
-ImagePicker=>android-imagepicker-libraries
-
-##ImageView
-Zoomable ImageView=>android-zoomable-imageview
-GifView=>android-gifview-solutions
-
-##Image Loading
-ImageLoaders=>android-imageloaders
-ImageLoading Animations=>android-imageloading-animations-solutions
-
-##Music
-Music Player UI=>android-music-player-ui
-
-##YouTube
-YouTubePlayer=>android-youtube-player-libraries
-
-##Camera
-Photo Capture Libraries=>android-photo-capture-libraries
-CameraButton=>android-camera-button
-
-@@@Threading anc Concurrency
-
-##MultiThreading
-Threads=>android-threads
-
-@@@Revenue
+##Animation
+Android TimeAnimator Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/TimeAnimator
 
 ##Billing
-InApp Purchase=>android-google-in-app-purchase-libraries
+Best Android In-App Billing Libraries and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-google-in-app-purchase-libraries
 
-@@@Tooling
+##Biometric
+Kotlin Android FingerprintAPI Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/fingerprint-api
 
-##Binding
-ViewBinding=>android-viewbinding
-
-##Dexing
-Accelerate MultiDex=>android-multidex
-
-##IDE
-Android Studio=>android-studio
-
-
-@@@Security
-
-##Cryptography
-Encryption Decryption=>android-encryption-decryption
-
-@@@Database
-
-##SharedPreferences
-Sharedprefrences=>android-sharedpreferences
-
-##SQLite
-SQLite Libraries=>android-sqlite-libraries
-
-
-@@@HTTP
-
-##Downloader
-Any File Loader=>android-file-loader
-
-##URL
-Uri=>android-uri
-URL Preview=>android-url-preview
-
-##Retrofit
-Retrofit=>android-retrofit
-
-@@@System
-
-##Introduction
-How Android Works=>how-android-works
-
-##Data
-Data Usage=>android-data-usage
+##Biometric Authentication
 
 ##Bluetooth
-Bluetooth=>android-bluetooth-solutions
+Android Bluetooth Low Energy Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/bluetooth-low-energy
+
+##BlurHash
+BlurHashExt=>https://apps.camposha.info/wp-content/uploads/md/android/examples/KingsMentor__BlurHashExt
+
+##Bottom Navigation Category
+Kotlin Android BottomSheet Libraries and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-bottomsheet-solutions
+
+##Browser
+Kotlin AndroidX Browser Actions Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/BrowserActions
+
+##Button
+Android Button Tutorial and Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-button
+How to render and use a CameraVideoButton in your Android app=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-camera-button
+Android FloatingActionButton Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-floatingactionbutton-libraries
+Kotlin Android FloatingActionButton Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-floatingactionbutton
+Android LikeButton Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-likebutton
+
+##Caesar Encryption
+Ceaserey=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__Ceaserey
+
+##Camera
+Android Camera2 Examples - Capture, Pick or Scan=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-camera2-capture-photo-scan-qrcode
+How to Search Text inside Image using CameraX and Firebase ML=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-camerax-search-text-inside-image
+Kotlin Android CameraX Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-camerax
+Kotlin Android Capture From Camera or Pick Image=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-capture-pick-image
+Best Android Image Cropping Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-crop
+Android EasyImage – Photo Capture Library and Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-easy-image
+
+##CheckBox
+Kotlin Android CheckBox Tutorial and Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-checkbox
+
+##ChipView
+Android ChipView Tutorial and Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-chipview
+
+##Circular ImageView
+Avatarview Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/GetStream__avatarview-android
+
+##Cloud
+Kotlin Android OneSignal Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/onesignal
+
+##Coil
+Coil Image-Loader Android Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__Coil-Image-Loader-And
+
+##Component
+Best Android Intent Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-intent-libraries
+Android Intent Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-intent
+
+##ConnectivityManager
+ConnectivityManager and NotificationManager.=>https://apps.camposha.info/wp-content/uploads/md/android/examples/okwrtdsh__ConnectivityTest
+
+##Coroutines
+Kotlin Android Coroutines - Simple Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-coroutines
+Kotlin Android Flow Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-flow
+
+##Dashboard UI
+GridLayout Dashboard-UI=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__Dashboard-UI-Android
+
+##DateTime
+Best Android DateTime Libraries and HowTo Examples - 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-datetime-libraries
+Android DateTime,Calender and DateTimePicker Tutorial and Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-datetime
+
+##Dialog
+Let’s Create a Custom BottomSheetDialog without any library=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-bottomsheet-dialog
+Kotlin Android BottomSheetBehaviour Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-bottomsheetbehaviour
+Best Android Dialog Libraries 2022=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dialog-libraries
+Android Dialog Search Filter Solutions=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dialog-search-filter
+Best Android DialogSheet Libraries - 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dialogsheet-libraries
+Best Android License Display Libraries - 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-license-libraries
+
+##Downloader
+Android- Asynchronously Download Multiple Files=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-download-multiple-files
+Android File Loading – Load File locally or Download from network=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-file-loader
+Android MediaScannerConnection Tutorial=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mediascannerconnection
+
+##Drawing
+Drawing Application=>https://apps.camposha.info/wp-content/uploads/md/android/examples/guneer491__Drawing-Application
+
+##EditText
+Android EditText Tutorial=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-edittext
+
+##Email
+Best Android Email Sending Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-email
+
+##Email Intent
+Android Email Intent Demo=>https://apps.camposha.info/wp-content/uploads/md/android/examples/jasonbutwell__Android_EmailIntentDemo
+
+##ExoPlayer
+Android ExoPlayer Video Preview Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-exoplayer-video-preview
+Android Exoplayer Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-exoplayer
+
+##Fast Networking Library
+Android Fast Networking Library Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-fast-networking-library
+Android MySQL Fast Networking Library - INSERT SELECT SHOW=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-fastnetworking-library-mysql-gridview
+
+##Fast Networking Library RecyclerView
+Fast Networking Library API example with RecyclerView=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__Dogs-App-Fast-Networking
+
+##FilePicker
+Kotlin Android ImagePicker Libraries and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-imagepicker-libraries
+
+##FileSystem
+Android Environment class=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-environment
+Android Files - Write, Read and Delete - Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-files-write-read-delete
+
+##Firebase
+How to Add Firebase to Your Android project=>https://apps.camposha.info/wp-content/uploads/md/android/examples/add-firebase-to-android
+CoronaVirus News App - Kotlin + MVVM + Firebase + Cloud Storage + Authentication=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-coronavirus-news-app
+Daily Devotions - Prayers App – Firebase+MVVM+Multi-Admin Auth+Room=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-daily-devotions-prayer-app-firebase
+Download=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-cloud-storage-crud-course-java
+Android Firebase Storage + Firebase Realtime Database Tutorial=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-cloud-storage-recyclerview
+Android Firebase Full CRUD Course – INSERT SELECT UPDATE DELETE SEARCH=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-full-crud
+Android Firebase Realtime Database ListView CRUD simple examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-listview
+Android Firebase Realtime Database CRUD with Search and Pagination=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-realtime-database-crud-with-search-and-pagination
+Android Firebase Realtime Database with RecyclerView=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-recyclerview
+Filter with Search Highlighting=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-search
+Kotlin Android Firebase Job Dispatcher Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase-job-dispatcher
+
+##Firebase Cloud Storage
+Firebase Cloud Storage Quickstart=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__storage
+
+##Firebase Crash Reporting
+Firebase Crash Reporting=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__crash
+
+##Firebase Dynamic Links
+Firebase Dynamic Links Quickstart=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__dynamiclinks
+
+##Firebase Flow
+Firebase Flow Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/PatilShreyas__FirebaseFlowExample
+
+##Firebase InApp Messaging
+Firebase InApp Messaging Quickstart=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__inappmessaging
+
+##Firebase MLKit Image Recognition
+Firebase ML Kit - Image Recognition=>https://apps.camposha.info/wp-content/uploads/md/android/examples/enzoftware__mlkit-image-recognition
+
+##Firebase Performance
+Firebase Performance Quickstart=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__perf
+
+##Firebase Realtime Database Blog App
+Kotlin Firebase Realtime Database BlogPosts App=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__database
+
+##Firebase Remote Config
+Firebase Remote Config Quickstart=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__config
+
+##Firestore Restaurants Rating App
+Firestore Restaurants Rating App Quickstart=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firebase__firestore
+
+##Fonts
+Best Android Custom Fonts Libraries with Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-custom-fonts
+
+##Fragment
+Kotlin Android DialogFragment Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dialog-fragment
+Kotlin Android - Fragment Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-fragment
+Android ListFragment – With Images and Text=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-list-fragment
+
+##Fresco
+How to load an image with Fresco=>https://apps.camposha.info/wp-content/uploads/md/android/examples/freewind-demos__android-kotlin-fresco-load-image-demo
+Fresco Animate GIF=>https://apps.camposha.info/wp-content/uploads/md/android/examples/jasonbutwell__Android_KotlinFrescoExample
+
+##Fresco Transformation
+Fresco-processors=>https://apps.camposha.info/wp-content/uploads/md/android/examples/wasabeef__fresco-processors
+
+##GSON
+GSON - How to Parse Local JSON File=>https://apps.camposha.info/wp-content/uploads/md/android/examples/gson-parse-local-json
+
+##Generate XML Resources Programmatically
+Use ResourcesPoet=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Commit451__ResourcesPoet
+
+##Glide Transformation
+Glide-transformations=>https://apps.camposha.info/wp-content/uploads/md/android/examples/wasabeef__glide-transformations
+
+##Google Maps
+GoogleMap Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/okwrtdsh__GoogleMapExample
+
+##Google Play
+Android - Check for App Updates Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-check-updates
+
+##HttpURLConnection
+Kotlin Android HttpURLConnection Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-httpurlconnection
+Android JSON GridView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-json-gridview
+Android JSON RecyclerView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-json-recyclerview
+Android HttpsURLConnection=>https://apps.camposha.info/wp-content/uploads/md/android/examples/httpsurlconnection
+
+##HttpUrlConnection
+Kotlin Android HttpURLConnection Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-httpurlconnection
+Android JSON GridView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-json-gridview
+Android JSON RecyclerView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-json-recyclerview
+Android HttpsURLConnection=>https://apps.camposha.info/wp-content/uploads/md/android/examples/httpsurlconnection
+
+##ImageLoader
+Android Glide Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-glide
+Kotlin Android Picasso ImageLoader Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-picasso
+Kotlin Android Coil Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/coil
+Kotlin Android Firecoil Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/firecoil
+Kotlin Android Fresco Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/fresco
+
+##Images
+Android Circular and Shaped ImageView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-circular-imageview
+How to programmatically compress images - Android Solutions=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-compressor-solutions
+How to render Gifs - Android Solutions=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-gifview-solutions
+Kotlin Android Image Carousel Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-image-carousel
+Best Android ImageLoaders – 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-imageloaders
+How to show Animations while Loading Images - Android Solutions=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-imageloading-animations-solutions
+Android ImageView Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-imageview
+Kotlin Android Zoomable ImageView Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-zoomable-imageview
+Best Android CarouselView Solutions and Libraries in 2022=>https://apps.camposha.info/wp-content/uploads/md/android/examples/carouselview
+
+##ItemPicker
+Android CountryPicker=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-countrypicker-libraries
+Android NumberPicker - Examples and Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-numberpicker-solutions
+
+##JSON
+Android GSON Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-gson
+Android JSON ListView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-json-listview
+Android LoganSquare Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-logansquare
+Android Moshi Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-moshi
+
+##JSON Viewer
+Use JsonViewer=>https://apps.camposha.info/wp-content/uploads/md/android/examples/smuyyh__JsonViewer
+
+##Jetpack
+Android Jetpack Introduction=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-jetpack
+Kotlin Android Jetpack Navigation Component Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-navigation-component
+
+##Layout
+Android CoordinatorLayout Tutorial=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-coordinatorlayout
+Android FrameLayout Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-framelayout
+Android LinearLayout Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-linearlayout
+Kotlin Android MultiState View example - Loading,Empty,Error etc=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-multistateview
+
+##ListView
+Android Pagination Examples for ListView and GridView=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-pagination
+
+##LiveData
+Android LiveData Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-livedata
+
+##Location
+Kotlin Android LocationManager Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-locationmanager
+
+##Log
+Android Common Intent Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-common-intents
+
+##MaterialDialog Libraries
+MaterialDialog-Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/PatilShreyas__app
+
+##MediaPlayer
+Android Music Player UI=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-music-player-ui
+
+##Menu
+Kotlin Android Option Menu Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dropdown-menu
+Kotlin Android ContextMenu Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/contextmenu
+
+##MotionLayout
+Kotlin Android MotionLayout Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-motionlayout
+
+##MySQL
+Cosmic Stars App - Kotlin Fast Networking Library Multipart MySQL with Disk Caching=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-death-stars-app-kotlin-fast-networking-library
+Kotlin MVVM Retrofit PHP MySQL CRUD App with Disk Caching=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-kotlin-retrofit-mvvm-mysql-app
+Download Images Text=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-fast-networking-library-images-text
+Android MySQL GridView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-gridview
+Android PHP MySQL ListView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-listview
+Android PHP MySQL RecyclerView Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-recyclerview
+Download=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-retrofit-multipart
+Android PHP MySQL CRUD - Spinner Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-spinner
+
+##NavigationView
+Best Android NavigationDrawer and NavigationView Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-navigationdrawer-libraries
+NavigationDrawer Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-navigationview
+
+##NavigationView Libraries
+MaterialNavigationView-Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/PatilShreyas__MaterialNavigationView-Android
+
+##NearBy Connections API
+NearBy Connections Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/okwrtdsh__NearByTest
+
+##Notification
+Best Android Notification Libraries=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-notification-libraries
+Android Notifications Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-notification
+
+##OkHttp
+Android OkHTTP Quick Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-okhttp
+Best Android PageIndicator Libraries - 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-pageindicator-libraries
+
+##OpenGL
+Kotlin OpenGL with Accelerometer Sensor=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Flashrow__Kotlin-OpenGL-with-accelerometer-sensor
+Android OpenGL Kotlin=>https://apps.camposha.info/wp-content/uploads/md/android/examples/PavelSobolev__Android-OpenGL-Kotlin
+
+##PDFView with ViewPager
+Use Android-Pdf-Viewer=>https://apps.camposha.info/wp-content/uploads/md/android/examples/ameriod__Android-Pdf-Viewer
+Android PDF Reader with Viewpager2=>https://apps.camposha.info/wp-content/uploads/md/android/examples/elye__demo_android_pdf_reader_viewpager2
+PDFRenderer with ViewPager2=>https://apps.camposha.info/wp-content/uploads/md/android/examples/jorgecasariego__PDFRenderer-with-ViewPager-2
+
+##PDFViewer
+Android PHP MySQL PDF Reader Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mysql-pdfreader
+
+##Pages
+How to Create a Dashboard Page - Kotlin Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dashboard
+Android AppIntro and Onboarding - Libraries and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-onboarding-libraries
+What is Splash Screen API=>https://apps.camposha.info/wp-content/uploads/md/android/examples/splashscreen-api
+
+##Pagination
+Kotlin Android Paging Library Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/paging
+
+##Permissions
+Kotlin Android Coroutines Channel Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-channel
+How to Check and Request for Permissions at Runtime=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-check-request-permission
+
+##Permissions with Flow API
+Permission Flow Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/PatilShreyas__permission-flow-android
+
+##Picasso Transformation
+Picasso Transformations=>https://apps.camposha.info/wp-content/uploads/md/android/examples/wasabeef__picasso-transformations
+
+##PopupMenu Libraries
+QuickActionView=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Commit451__QuickActionView
+
+##Progress Indicators
+Android Dual ProgressBar Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-dual-progressbar
+
+##Realm MVVVM Notes App
+Mini-Notes-App-Realm=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__Mini-Notes-App-Realm
+
+##RecyclerView
+Android DiffUtil vs NotifyDataSetChanged usage=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-diffutil
+Kotlin Android Nested RecyclerView Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-nested-recyclerview6
+
+##RecyclerView Zoomable Items
+ZoomRecylerLayout=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__ZoomRecylerLayout
+
+##Retrofit
+Kotlin Android Retrofit Jackson=>https://apps.camposha.info/wp-content/uploads/md/android/examples/retrofit-jackson
+Kotlin Android Retrofit + Paging + Hilt + Moshi=>https://apps.camposha.info/wp-content/uploads/md/android/examples/retrofit-moshi
+
+##Room
+Daily Tasks Planner App – Kotlin + Room CRUD+MVVM=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-daily-tasks-room-mvvm
+
+##SQLite
+Android SQLite - How to Import from or Export to Excel=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-sqlite-excel
+
+##Scheduler
+Kotlin Android Chronometer Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-chronometer
+
+##Screenshot Capture
+Take And Share ScreenShot=>https://apps.camposha.info/wp-content/uploads/md/android/examples/alfayedoficial__Take_And_Share_ScreenShot
+
+##Security
+Android Data Encryption and Decryption=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-encryption-decryption
+Android Jackson Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-jackson
+Android JSON=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-json-libraries
+Kotlin Android KeyStore Tutorial and Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-keystore
+
+##Sensor
+How to get Device Info in Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-get-device-info
+Android SensorManager Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/sensor-manager
+
+##SharedPrefrences
+Android Material SharedPreferences Tutorial and Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-material-sharedpreferences
+Kotlin AndroidX Preferenc and Settings Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/preference
+
+##Speech Recognition
+Speech To Text and Text to Speech Converter=>https://apps.camposha.info/wp-content/uploads/md/android/examples/kareem983__Speech_Text_Converter
+
+##Spinner
+Android Firebase Database with Spinnner Simple CRUD=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-firebase-spinner
+
+##System
+How to Programmatically Monitor Data Usage in Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-data-usage
+Android Solutions - Reliably get Device Name=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-device-name
+
+##Testing
+Kotlin Android Spek Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/spek-api
+
+##TextView
+Android BubbleLayout Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-bubblelayout
+Kotlin Android - Render Math Equations=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mathview
+Kotlin Android MediaPlayer Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-mediaplayer
+
+##Threads
+Android Executor Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-executor
+Android Handler Tutorial and Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-handler
+
+##Toast Library
+Toaster-android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/developingdeveloper-tech__toaster-android
+Toasty=>https://apps.camposha.info/wp-content/uploads/md/android/examples/GrenderG__Toasty
+Sneaker=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Hamadakram__Sneaker
+FloatingToast=>https://apps.camposha.info/wp-content/uploads/md/android/examples/hariprasanths__FloatingToast
+CookieBar=>https://apps.camposha.info/wp-content/uploads/md/android/examples/liuguangqiang__CookieBar
+MaterialToast=>https://apps.camposha.info/wp-content/uploads/md/android/examples/marcoscgdev__MaterialToast
+Dynamic-toasts=>https://apps.camposha.info/wp-content/uploads/md/android/examples/pranavpandey__dynamic-toasts
+FancyToast-Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Shashank02051997__FancyToast-Android
+MotionToast=>https://apps.camposha.info/wp-content/uploads/md/android/examples/Spikeysanju__MotionToast
+TastyToasty=>https://apps.camposha.info/wp-content/uploads/md/android/examples/usman18__TastyToasty
+
+##ToolBar
+Android BreadCrumbView=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-breadcrumbiew-libraries
+Android FloatingToolBar Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-floating-toolbar
+
+##Tools
+Gradle Introduction=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-gradle
+How to Accelerate MultiDex - Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-multidex
+
+##UPI Payment Implementation
+EasyUpiPayment-Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/PatilShreyas__EasyUpiPayment-Android
+
+##Utilities
+Android RxJava2 Example - List and Launch Applications=>https://apps.camposha.info/wp-content/uploads/md/android/examples/list-and-launch-applications
+
+##ViewPager
+Kotlin Android PagerIndicator using TabLayout Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/pagerindicator
+
+##Volley
+Android Volley Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-volley
+
+##WebView
+Best Android MarkdownView Libraries - 2021=>https://apps.camposha.info/wp-content/uploads/md/android/examples/android-markdown-libraries
