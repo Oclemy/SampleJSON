@@ -1,11 +1,11 @@
 
 ##Accelerometer
-Simple Accelerometer Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/enzoftware__android-accelerometer
-Accelerometer Experimentation=>https://apps.camposha.info/wp-content/uploads/md/android/examples/indently__accelerometer
+Simple Accelerometer Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/enzoftware__android-accelerometer===16-11-2022
+Accelerometer Experimentation=>https://apps.camposha.info/wp-content/uploads/md/android/examples/indently__accelerometer===17-11-2022
 
 ##Accessibility
-Accessibility Examples - Kotlin Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/accessibility
-Kotlin Android App Shortcuts Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/app-shortcuts
+Accessibility Examples - Kotlin Android=>https://apps.camposha.info/wp-content/uploads/md/android/examples/accessibility===18-11-2022
+Kotlin Android App Shortcuts Example=>https://apps.camposha.info/wp-content/uploads/md/android/examples/app-shortcuts===16-11-2022
 
 ##Account
 Android Account and AccountManager Examples=>https://apps.camposha.info/wp-content/uploads/md/android/examples/account
