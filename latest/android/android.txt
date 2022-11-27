@@ -1,0 +1,640 @@
+@@@Introduction
+
+##Building Your First App
+Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/first_app/first-app
+Create Android Project=>https://apps.camposha.info/wp-content/uploads/md/android/android/first_app/creating-project
+Run Your App=>https://apps.camposha.info/wp-content/uploads/md/android/android/first_app/run-your-app
+Build a simple UI=>https://apps.camposha.info/wp-content/uploads/md/android/android/first_app/building-ui
+Start Another Activity=>https://apps.camposha.info/wp-content/uploads/md/android/android/first_app/starting-activity
+
+##Fundamentals
+App Fundamentals=>https://apps.camposha.info/wp-content/uploads/md/android/android/components/fundamentals
+
+@@@App Architecture
+
+##App Architecture Basics
+App Architecture Introduction=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-archiecture/intro
+#App Architecture Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-archiecture/architecture
+Domain Layer=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-archiecture/domain-layer
+App Architecture recommendations=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-archiecture/recommendations
+
+##UI Layer
+UI Layer Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui-layer/ui-layer-overview
+UI events=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui-layer/events
+State holders and UI state=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui-layer/stateholders
+State production=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui-layer/state-production
+
+##Data Layer
+Data Layer Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-layer/data-layer
+Offline first=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-layer/offline-first
+
+
+@@@App Entry Points and Pages
+
+##Activities
+Introduction to activities=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/intro-activities
+The activity lifecycle=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/activity-lifecycle
+Activity state changes=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/state-changes
+Test your app's activities=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/testing
+Tasks and the back stack=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/tasks-and-back-stack
+Processes and app lifecycle=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/process-lifecycle
+Parcelables and bundles=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/parcelables-and-bundles
+Loaders=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/loaders
+Recents screen=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/recents
+Restrictions on starting activities from the background=>https://apps.camposha.info/wp-content/uploads/md/android/android/activities/background-starts
+
+##Fragments
+Fragments Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/fragments
+Create a fragment=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/create
+Fragment manager=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/fragmentmanager
+Fragment transactions=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/transactions
+Animate transitions between fragments=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/animate
+Fragment lifecycle=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/lifecycle
+Saving state with fragments=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/saving-state
+Communicate with fragments=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/communicate
+Working with the app bar=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/appbar
+Displaying dialogs with DialogFragment=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/dialogs
+Debug your fragments=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/debugging
+Test your fragments=>https://apps.camposha.info/wp-content/uploads/md/android/android/fragments/test
+
+##App Shortcuts
+App Shortcuts Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-shortcuts/shortcuts
+Create shortcuts=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-shortcuts/creating-shortcuts
+Add capabilities=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-shortcuts/adding-capabilities
+Manage shortcuts=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-shortcuts/managing-shortcuts
+Best practices for shortcuts=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-shortcuts/best-practices
+
+
+@@@App Resources
+
+##App Resources
+App Resources Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/providing-resources
+Handle Configuration Changes=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/runtime-changes
+
+##Localization
+Localize Your App=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/localization
+Test with Pseudolocales=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/pseudolocales
+Unicode and Internationalization=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/internationalization
+Language and Locale Resolution=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/multilingual-support
+
+##Complex XML Resources
+Complex XML Resources=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/complex-xml-resources
+
+##Resource Types
+Animation=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/animation-resource
+Color state list=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/color-list-resource
+Drawable=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/drawable-resource
+Layout=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/layout-resource
+Menu=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/menu-resource
+String=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/string-resource
+Style=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/style-resource
+Font=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/font-resource
+More Font types=>https://apps.camposha.info/wp-content/uploads/md/android/android/resources/more-resources
+
+##App Manifest File
+App Manifest Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/manifest-intro
+action=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/action-element
+activity=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/activity-element
+activity-alias=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/activity-alias-element
+application=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/application-element
+category=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/category-element
+compatible-screens=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/compatible-screens-element
+data=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/data-element
+grant-uri-permission=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/grant-uri-permission-element
+instrumentation=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/instrumentation-element
+intent-filter=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/intent-filter-element
+manifest=>https://apps.camposha.info/wp-content/uploads/md/android/android/manifest/manifest-element
+
+
+@@@Introduction to User Interfaces
+
+##Building Android User Interfaces
+Building Android User Interfaces=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui
+
+##Create Backward-Compatible UIs
+Create Backward-Compatible UIs Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui/backward-compatible-ui
+Abstracting the new APIs=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui/abstracting
+Proxying to the new APIs=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui/new-implementation
+Creating an implementation with older APIs=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui/older-implementation
+Using the version-aware component=>https://apps.camposha.info/wp-content/uploads/md/android/android/ui/using-component
+
+@@@App Navigation
+
+##App Navigation Introduction
+Principles of navigation=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation/navigation-principles
+Design for different form factors=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation/navigation-form-factors
+Handle configuration changes=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation/navigation-config-changes
+Create swipe views with tabs using ViewPager=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation/navigation-swipe-view
+Create swipe views with tabs using ViewPager2=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation/navigation-swipe-view-2
+
+##Navigation Component
+Navigation Component Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation
+Getting started with Navigation Component=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-getting-started
+Create destinations=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-create-destinations
+Design navigation graphs=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-design-graph
+Nested graphs=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-nested-graphs
+Global actions=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-global-action
+Navigate to a destination=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-navigate
+Support multiple back stacks=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/multi-back-stacks
+Conditional navigation=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-conditional
+Pass data between destinations=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-pass-data
+Create a deep link for a destination=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-deep-link
+Animate transitions between destinations=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-animate-transitions
+Update UI components with NavigationUI=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-ui
+Kotlin DSL=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-kotlin-dsl
+Type safe navigation with Compose=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-type-safety
+Interact programmatically=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-programmatic
+Navigate with feature modules=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-dynamic
+Best practices for multi-module projects=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-multi-module
+Test navigation=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-testing
+Add new destination types=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-add-new
+Migrate to the Navigation component=>https://apps.camposha.info/wp-content/uploads/md/android/android/navigation-component/navigation-migrate
+
+
+##App Links
+App Links Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-links/app-links
+Enabling links to app content=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-links/deep-linking
+Verify app links=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-links/verify-android-applinks
+Create app links for instant apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-links/instant-app-links
+
+
+@@@Dependency Injection
+
+##Dependency Injection Introduction
+Dependency Injection Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/dependency-injection/dependency-injection
+Manual dependency injection=>https://apps.camposha.info/wp-content/uploads/md/android/android/dependency-injection/manual
+
+##Hilt
+Dependency injection with Hilt=>https://apps.camposha.info/wp-content/uploads/md/android/android/hilt/hilt-android
+Hilt in multi-module apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/hilt/hilt-multi-module
+Use Hilt with other Jetpack libraries=>https://apps.camposha.info/wp-content/uploads/md/android/android/hilt/hilt-jetpack
+Hilt testing guide=>https://apps.camposha.info/wp-content/uploads/md/android/android/hilt/hilt-testing
+Hilt and Dagger annotations cheat sheet=>https://apps.camposha.info/wp-content/uploads/md/android/android/hilt/hilt-cheatsheet
+
+##Dagger
+Dagger basics=>https://apps.camposha.info/wp-content/uploads/md/android/android/dagger/dagger-basics
+Using Dagger in Android apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/dagger/dagger-android
+Using Dagger in multi-module apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/dagger/dagger-multi-module
+
+@@@Core Topics
+
+##App Startup
+App Startup=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-startup/app-startup
+
+##App Compatibility
+App Compatiblity Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-compatibility/app-compatibility
+Compatibility framework tools=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-compatibility/test-debug
+Restrictions on non-SDK interfaces=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-compatibility/restrictions-non-sdk-interfaces
+
+##Intents - Interact with Other Apps
+Intents Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/intents
+Sending the user to another app=>https://apps.camposha.info/wp-content/uploads/md/android/android/intents/sending
+Getting a result from an activity=>https://apps.camposha.info/wp-content/uploads/md/android/android/intents/result
+Allowing other apps to start your activity=>https://apps.camposha.info/wp-content/uploads/md/android/android/intents/filters
+
+##Intents and Filters
+Intents & Intent Filters=>https://apps.camposha.info/wp-content/uploads/md/android/android/intent-filters/intents-filters
+Common Intents=>https://apps.camposha.info/wp-content/uploads/md/android/android/intent-filters/intents-common
+
+##Services
+Services Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/services/services
+Foreground services=>https://apps.camposha.info/wp-content/uploads/md/android/android/services/foreground-services
+Bound services=>https://apps.camposha.info/wp-content/uploads/md/android/android/services/bound-services
+AIDL overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/services/aidl
+
+@@@Threading, Background Tasks and Scheduling
+
+##Background Tasks
+Background Tasks Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/background-tasks/background
+Background Threads=>https://apps.camposha.info/wp-content/uploads/md/android/android/background-tasks/threading
+Background optimizations=>https://apps.camposha.info/wp-content/uploads/md/android/android/background-tasks/background-optimization
+Using a ListenableFuture=>https://apps.camposha.info/wp-content/uploads/md/android/android/background-tasks/listenablefuture
+
+##Broadcasts
+Broadcasts Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/broadcasts/broadcasts
+Implicit Broadcast Exceptions=>https://apps.camposha.info/wp-content/uploads/md/android/android/broadcasts/broadcast-exceptions
+
+##Scheduling
+Manage Device Awake State=>https://apps.camposha.info/wp-content/uploads/md/android/android/scheduling/scheduling
+Keep the device awake=>https://apps.camposha.info/wp-content/uploads/md/android/android/scheduling/wakelock
+Schedule alarms=>https://apps.camposha.info/wp-content/uploads/md/android/android/scheduling/alarms
+
+
+@@@Permissions
+
+##Permissions
+Permissions Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/overview
+Evaluate whether your app needs permissions=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/evaluating
+Declare app permissions=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/declaring
+Request app permissions=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/requesting
+Explain access to more sensitive information=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/explaining-access
+App permissions best practices=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/usage-notes
+Permissions used only in default handlers=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/default-handlers
+Restrict interactions with other apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/restrict-interactions
+Define custom permissions=>https://apps.camposha.info/wp-content/uploads/md/android/android/permissions/defining
+
+
+@@@App Data, Files and Database
+
+##App Data Storage
+App Data Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/data
+Storage overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/data-storage
+Save to app-specific storage=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/app-specific
+Manage all files on a storage device=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/manage-all-files
+Save key-value data=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/shared-preferences
+Storage use cases and best practices=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/use-cases
+App install location=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-data-and-files/install-location
+
+##Save to Shared Storage
+Save to Shared Storage Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/save-to-shared-storage/shared
+Media=>https://apps.camposha.info/wp-content/uploads/md/android/android/save-to-shared-storage/media
+PhotoPicker=>https://apps.camposha.info/wp-content/uploads/md/android/android/save-to-shared-storage/photopicker
+Documents and other files=>https://apps.camposha.info/wp-content/uploads/md/android/android/save-to-shared-storage/documents-files
+Datasets=>https://apps.camposha.info/wp-content/uploads/md/android/android/save-to-shared-storage/datasets
+
+##Room Database
+Room Database Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/room
+Define data using entities=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/defining-data
+Access data using DAOs=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/accessing-data
+Define relationships between objects=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/relationships
+Write asynchronous DAO queries=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/async-queries
+Create views into a database=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/creating-views
+Prepopulate your database=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/prepopulate
+Migrate your database=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/migrating-db-versions
+Test and debug your database=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/testing-db
+Reference complex data=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/referencing-data
+Migrate from SQLite to Room=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/sqlite-room-migration
+Save data using SQLite=>https://apps.camposha.info/wp-content/uploads/md/android/android/room/sqlite
+
+##Sharing Simple Data
+Sharing Simple Data Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-simple-data/sharing
+Sending simple data to other apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-simple-data/send
+Receiving simple data from other apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-simple-data/receive
+
+##Sharing Files
+Sharing Files Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files/secure-file-sharing
+Setting up file sharing=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files/setup-sharing
+Sharing a file=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files/share-file
+Requesting a shared file=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files/request-file
+Retrieving file information=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files/retrieve-info
+
+##Sharing Files with NFC
+Sharing Files with NFC Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files-with-nfc/beam-files
+Sending files to another device=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files-with-nfc/send-files
+Receiving files from another device=>https://apps.camposha.info/wp-content/uploads/md/android/android/sharing-files-with-nfc/receive-files
+
+##Printing Files
+Printing Files Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/printing-files/printing
+Printing photos=>https://apps.camposha.info/wp-content/uploads/md/android/android/printing-files/photos
+Printing HTML documents=>https://apps.camposha.info/wp-content/uploads/md/android/android/printing-files/html-docs
+Printing custom documents=>https://apps.camposha.info/wp-content/uploads/md/android/android/printing-files/custom-docs
+
+##Content Providers
+Content Providers Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/content-providers/content-providers
+Content provider basics=>https://apps.camposha.info/wp-content/uploads/md/android/android/content-providers/content-provider-basics
+Creating a content provider=>https://apps.camposha.info/wp-content/uploads/md/android/android/content-providers/content-provider-creating
+Open files using storage access framework=>https://apps.camposha.info/wp-content/uploads/md/android/android/content-providers/document-provider
+Create a custom document provider=>https://apps.camposha.info/wp-content/uploads/md/android/android/content-providers/create-document-provider
+
+@@@Architecture Components
+
+##View Binding
+View Binding Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/view-binding/view-binding
+Migrate from Kotlin synthetics to view binding=>https://apps.camposha.info/wp-content/uploads/md/android/android/view-binding/migration
+
+##Data Binding
+Data Binding Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/data-binding
+Getting Started with Data Binding=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/start
+Layouts and binding expressions=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/expressions
+Work with observable data objects=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/observability
+Generated binding classes=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/generated-binding
+Binding adapters=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/binding-adapters
+Bind layout views to Architecture Components=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/architecture
+Two-way data binding=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-binding/two-way
+
+##Lifecycle-Aware Components
+Handle lifecycles=>https://apps.camposha.info/wp-content/uploads/md/android/android/lifecycle-aware-components/lifecycle
+LiveData=>https://apps.camposha.info/wp-content/uploads/md/android/android/lifecycle-aware-components/livedata
+Save UI states=>https://apps.camposha.info/wp-content/uploads/md/android/android/lifecycle-aware-components/saving-states
+Use Kotlin coroutines with lifecycle-aware components=>https://apps.camposha.info/wp-content/uploads/md/android/android/lifecycle-aware-components/coroutines
+
+##ViewModel
+ViewModel overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/viewmodel/viewmodel
+Create ViewModels with dependencies=>https://apps.camposha.info/wp-content/uploads/md/android/android/viewmodel/viewmodel-factories
+ViewModel APIs=>https://apps.camposha.info/wp-content/uploads/md/android/android/viewmodel/viewmodel-apis
+Saved State module for ViewModel=>https://apps.camposha.info/wp-content/uploads/md/android/android/viewmodel/viewmodel-savedstate
+
+##Paging Library v3
+Paging Library Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/v3-overview
+Load and display paged data=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/v3-paged-data
+Page from network and database=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/v3-network-db
+Transform data streams=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/v3-transform
+Manage and present loading states=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/load-state
+Test your Paging implementation=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/test
+Migrate to Paging 3=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v3/v3-migration
+
+##Paging Library v2
+Paging v2 Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v2/paging
+Paging v2 Display paged lists=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v2/ui
+Paging v2 Load paged data=>https://apps.camposha.info/wp-content/uploads/md/android/android/paging-library-v2/data
+
+##DataStore
+DataStore=>https://apps.camposha.info/wp-content/uploads/md/android/android/datastore/datastore
+
+##WorkManager
+WorkManager Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/workmanager
+Getting Started with WorkManager=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/basics
+How to Define your WorkRequests=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/define-work
+Work States=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/states-and-observation
+How to Manager Work=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/managing-work
+How to Observe intermediate Worker progress=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/intermediate-progress
+How to Chain work together=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/chain-work
+How to Test Worker implementation=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/testing-worker-impl
+Integration tests with WorkManager=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/integration-testing
+How to Debug WorkManager=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/debugging
+Migrating from Firebase JobDispatcher=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/migrating-fb
+Migrating from GCMNetworkManager=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/migrating-gcm
+Configuration and Initialization=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/custom-configuration
+Support for long-running workers=>https://apps.camposha.info/wp-content/uploads/md/android/android/workmanager/long-running
+
+##Threading in WorkManager
+Threading in WorkManager Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/threading-in-workmanager/threading
+Threading in Worker=>https://apps.camposha.info/wp-content/uploads/md/android/android/threading-in-workmanager/worker
+Threading in CoroutineWorker=>https://apps.camposha.info/wp-content/uploads/md/android/android/threading-in-workmanager/coroutineworker
+Threading in RxWorker=>https://apps.camposha.info/wp-content/uploads/md/android/android/threading-in-workmanager/rxworker
+Threading in ListenableWorker=>https://apps.camposha.info/wp-content/uploads/md/android/android/threading-in-workmanager/listenableworker
+
+##Multi-Module Development
+Modularization Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/modularization/modularization
+Modularization Patterns=>https://apps.camposha.info/wp-content/uploads/md/android/android/modularization/patterns
+Modularization Navigation Recipes=>https://apps.camposha.info/wp-content/uploads/md/android/android/modularization/navigation-multi-module
+
+@@@User Data and Identity
+
+##User Data and Identity
+User Data Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/user-data
+Add sign-in workflow=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/sign-in
+Show a biometric authentication dialog=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/biometric-auth
+Identify developer-owned apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/app-set-id
+Review how your app collects and shares user data=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/collect-share
+Audit data access=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/audit-access
+Get a user-resettable advertising ID=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/ad-id
+Calendar provider overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/calendar-provider
+Account transfer=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/account-transfer
+Best practices for unique identifiers=>https://apps.camposha.info/wp-content/uploads/md/android/android/user-data-and-identity/user-data-ids
+
+##Autofill Framework
+Autofull Framework Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/autofill-framework/autofill
+Optimize your app for autofill=>https://apps.camposha.info/wp-content/uploads/md/android/android/autofill-framework/autofill-optimize
+Build autofill services=>https://apps.camposha.info/wp-content/uploads/md/android/android/autofill-framework/autofill-services
+Integrate autofill with keyboards=>https://apps.camposha.info/wp-content/uploads/md/android/android/autofill-framework/ime-autofill
+
+##Contacts Provider
+Contacts Provider Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/contacts-provider/contacts-provider
+Retrieving a list of contacts=>https://apps.camposha.info/wp-content/uploads/md/android/android/contacts-provider/retrieve-names
+Retrieving details for a contact=>https://apps.camposha.info/wp-content/uploads/md/android/android/contacts-provider/retrieve-details
+Modifying contacts using intents=>https://apps.camposha.info/wp-content/uploads/md/android/android/contacts-provider/modify-data
+Displaying the quick contact badge=>https://apps.camposha.info/wp-content/uploads/md/android/android/contacts-provider/display-contact-badge
+
+##Data Backup
+Data Backup Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-backup/backup
+Back up user data=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-backup/autobackup
+Back up key-value pairs=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-backup/keyvaluebackup
+Test backup and restore=>https://apps.camposha.info/wp-content/uploads/md/android/android/data-backup/testingbackup
+
+##Remember and Authenticate Users
+Remember and Authenticate Users Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/remember-and-authenticate-users/id-auth
+Remember your user=>https://apps.camposha.info/wp-content/uploads/md/android/android/remember-and-authenticate-users/identify
+Authenticate to OAuth2 services=>https://apps.camposha.info/wp-content/uploads/md/android/android/remember-and-authenticate-users/authenticate
+Create a custom account type=>https://apps.camposha.info/wp-content/uploads/md/android/android/remember-and-authenticate-users/custom_auth
+
+
+
+@@@Location
+
+##User Location
+Location Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/location
+Request location permissions=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/permissions
+Get the last known location=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/retrieve-current
+Change location settings=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/change-location-settings
+Request location updates=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/request-updates
+Access location in the background=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/background
+Create and monitor geofences=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/geofencing
+Detect when users start an activity=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/transitions
+Optimize location for battery=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/battery
+Test location workflows=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/testing
+Migrate to location and context APIs=>https://apps.camposha.info/wp-content/uploads/md/android/android/location/migration
+Add maps=>https://apps.camposha.info/wp-content/uploads/md/android/android/maps
+
+
+
+@@@Camera
+
+##Camera
+Choose a Camera Library=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera/choose-camera-library
+Camera Intents=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera/camera-intents
+
+##Camera Extensions
+Camera Extensions Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-extensions/camera-extensions
+Supported Devices=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-extensions/supported-devices
+
+##CameraX
+CameraX Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/camerax
+CameraX Architecture=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/architecture
+CameraX Configuration=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/configuration
+CameraX Preview=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/preview
+CameraX Take Photo=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/take-photo
+CameraX Analyze=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/analyze
+CameraX Video Capture=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/video-capture
+CameraX Extensions API=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/extensions-api
+CameraX Transform Output=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/transform-output
+CameraX Orientation Rotation=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/orientation-rotation
+CameraX Devices=>https://apps.camposha.info/wp-content/uploads/md/android/android/camerax/devices
+
+##Camera2
+Camera2 Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/camera2
+Camera capture sessions and requests=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/capture-sessions-requests
+Camera lenses and capabilities=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/camera-enumeration
+Use multiple camera streams simultaneously=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/multiple-camera-streams-simultaneously
+Camera preview=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/camera-preview
+HDR video capture=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/hdr-video-capture
+Multi-Camera API=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/multi-camera
+Extensions API=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera2/extensions-api
+
+##Camera(deprecated)
+Camera Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-deprecated
+Camera Take photos=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-deprecated/photobasics
+Camera Record videos=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-deprecated/videobasics
+Control the camera=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-deprecated/cameradirect
+Camera API=>https://apps.camposha.info/wp-content/uploads/md/android/android/camera-deprecated/camera
+
+
+@@@Sensors
+
+##Sensors
+Sensors=>https://apps.camposha.info/wp-content/uploads/md/android/android/sensors/sensors
+Sensors Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/sensors/sensors_overview
+Motion sensors=>https://apps.camposha.info/wp-content/uploads/md/android/android/sensors/sensors_motion
+Position sensors=>https://apps.camposha.info/wp-content/uploads/md/android/android/sensors/sensors_position
+Environment sensors=>https://apps.camposha.info/wp-content/uploads/md/android/android/sensors/sensors_environment
+Raw GNSS measurements=>https://apps.camposha.info/wp-content/uploads/md/android/android/sensors/gnss
+
+
+@@@Connectivity
+
+##Connectivity
+Connectivity Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/connectivity
+Enhance your apps with 5G=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/enhance-with-5g
+Build client-server applications with gRPC=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/grpc
+UWB=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/uwb
+VPN=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/vpn
+Session initiation protocol overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/sip
+Open Mobile API reader support=>https://apps.camposha.info/wp-content/uploads/md/android/android/connectivity/omapi
+
+##Cross Device SDK
+Cross Device SDK Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/cross-device-sdk/overview
+Get started=>https://apps.camposha.info/wp-content/uploads/md/android/android/cross-device-sdk/get-started
+Device discovery API=>https://apps.camposha.info/wp-content/uploads/md/android/android/cross-device-sdk/device-discovery
+Secure connection API=>https://apps.camposha.info/wp-content/uploads/md/android/android/cross-device-sdk/secure-connection
+Sessions API=>https://apps.camposha.info/wp-content/uploads/md/android/android/cross-device-sdk/sessions
+Test and debug=>https://apps.camposha.info/wp-content/uploads/md/android/android/cross-device-sdk/testing-debugging
+
+##Performing Network Operations
+Network Operations Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/network-ops
+Connect to the network=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/connecting
+Manage network usage=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/managing
+Reading network state=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/reading-network-state
+Optimize network access=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/network-access-optimization
+Optimize network data usage=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/data-saver
+Monitor connectivity status and connection metering=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/connectivity-status-type
+Parse XML data=>https://apps.camposha.info/wp-content/uploads/md/android/android/performing-network-operations/xml
+
+##Performing Network Operations using Cronet
+Cronet Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/cronet/cronet
+Send a simple request=>https://apps.camposha.info/wp-content/uploads/md/android/android/cronet/start
+Cronet request lifecycle=>https://apps.camposha.info/wp-content/uploads/md/android/android/cronet/lifecycle
+Use Cronet with other libraries=>https://apps.camposha.info/wp-content/uploads/md/android/android/cronet/integration
+
+##Transferring Data without Draining the Battery
+Efficient Downloads Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/efficient-downloads/efficient-downloads
+Optimize downloads for efficient network access=>https://apps.camposha.info/wp-content/uploads/md/android/android/efficient-downloads/efficient-network-access
+Minimize the effect of regular updates=>https://apps.camposha.info/wp-content/uploads/md/android/android/efficient-downloads/minimize-effect-regular-updates
+Avoid unoptimized downloads=>https://apps.camposha.info/wp-content/uploads/md/android/android/efficient-downloads/avoid-unoptimized-downloads
+
+##Reduce Network Battery Drain
+Connectivity Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/connectivity
+Collecting network traffic data=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/troubleshoot-network-issues
+Analyzing data traffic=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/troubleshoot-network-issues
+Optimize network access=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/network-access-optimization
+Optimize user-initiated network use=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/network-access-optimization
+Optimize app-initiated network use=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/minimize-effect-regular-updates
+Optimize server-initiated network use=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/action-server-traffic
+Optimizing general network use=>https://apps.camposha.info/wp-content/uploads/md/android/android/reduce-network-battery-drain/minimize-effect-regular-updates
+
+@@@ Sync Adapters
+
+##Transfer Data using Sync Adapters
+Sync Adapter Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/sync-adapters/sync-adapters
+Create a Stub Authenticator=>https://apps.camposha.info/wp-content/uploads/md/android/android/sync-adapters/creating-authenticator
+Create a Stub Content Provider=>https://apps.camposha.info/wp-content/uploads/md/android/android/sync-adapters/creating-stub-provider
+Create a Sync Adapter=>https://apps.camposha.info/wp-content/uploads/md/android/android/sync-adapters/creating-sync-adapter
+Run a Sync Adapter=>https://apps.camposha.info/wp-content/uploads/md/android/android/sync-adapters/running-sync-adapter
+
+@@@Bluetooth
+
+##Bluetooth
+Bluetooth Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/bluetooth
+Set up Bluetooth=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/setup
+Find Bluetooth devices=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/find-bluetooth-devices
+Connect Bluetooth devices=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/connect-bluetooth-devices
+Transfer Bluetooth data=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/transfer-data
+Bluetooth permissions=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/permissions
+Bluetooth profiles=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth/profiles
+Companion device pairing=>https://apps.camposha.info/wp-content/uploads/md/android/android/companion-device-pairing
+
+##Bluetooth Low Energy
+Bluetooth Low Energy Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth-low-energy/ble-overview
+Find Bluetooth Low Energy devices=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth-low-energy/find-ble-devices
+Connect to a GATT server=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth-low-energy/connect-gatt-server
+Transfer Bluetooth Low Energy data=>https://apps.camposha.info/wp-content/uploads/md/android/android/bluetooth-low-energy/transfer-ble-data
+
+##Bluetooth Low Energy Audio
+Bluetooth Low Energy Audio Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/ble-audio/overview
+Audio Manager self-managed calls=>https://apps.camposha.info/wp-content/uploads/md/android/android/ble-audio/audio-manager
+Telecom API managed calls=>https://apps.camposha.info/wp-content/uploads/md/android/android/ble-audio/telecom-api-managed-calls
+Audio recording=>https://apps.camposha.info/wp-content/uploads/md/android/android/ble-audio/audio-recording
+
+@@@Near Field Communication
+
+##NFC
+NFC Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/nfc/nfc
+NFC Basics=>https://apps.camposha.info/wp-content/uploads/md/android/android/nfc/nfc
+Advanced NFC=>https://apps.camposha.info/wp-content/uploads/md/android/android/nfc/advanced-nfc
+Host-based card emulation overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/nfc/hce
+
+@@@Telecom
+
+##Telecom
+Telecom Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/telecom/telecom
+Build a calling app=>https://apps.camposha.info/wp-content/uploads/md/android/android/telecom/selfManaged
+Prevent caller ID spoofing=>https://apps.camposha.info/wp-content/uploads/md/android/android/telecom/prevent-spoofing
+Telephony IDs=>https://apps.camposha.info/wp-content/uploads/md/android/android/telecom/telephony-ids
+
+@@@WiFi
+
+##WiFi
+Request permission to access nearby WiFi devices=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi/wifi-permissions
+WiFi scanning overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi/wifi-scan
+WiFi peer-to-peer=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi/wifip2p
+Wi-Fi Aware overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi/wifi-aware
+Wi-Fi location with RTT=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi/wifi-rtt
+Local-only hotspot=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi/localonlyhotspot
+
+##WiFi Discover and Connect
+WiFi Discover and Connect Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-discover-and-connect/wifi-connect-devices-wirelessly
+Use network service discovery=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-discover-and-connect/nsd
+Create P2P connections with Wi-Fi Direct=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-discover-and-connect/wifi-direct
+Use Wi-Fi Direct for service discovery=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-discover-and-connect/nsd-wifi-direct
+Wi-Fi Easy Connect=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-discover-and-connect//wifi-easy
+
+##WiFi Infrastructure
+Wi-Fi infrastructure overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-infrastructure/wifi-infrastructure
+Wi-Fi suggestion API for internet connectivity=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-infrastructure/wifi-suggest
+Wi-Fi Network Request API for peer-to-peer connectivity=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-infrastructure/wifi-bootstrap
+Passpoint=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-infrastructure/passpoint
+Save networks and Passpoint configurations=>https://apps.camposha.info/wp-content/uploads/md/android/android/wifi-infrastructure/wifi-save-network-passpoint-config
+
+@@@USB
+
+##USB
+USB Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/usb/usb
+Accessory overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/usb/accessory
+Host overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/usb/host
+
+
+@@@WebApps
+
+##Web-Based Content
+WebApps Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/webapps
+Building web apps in WebView=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/webview
+Managing WebView objects=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/managing-webview
+Load local content=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/load-local-content
+Darken web content=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/dark-theme
+User privacy in WebView reporting=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/webview-privacy
+Supporting different screens in web apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/targeting
+Debugging web apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/debugging
+Best practices for web apps=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/best-practices
+Testing against future versions of WebView=>https://apps.camposha.info/wp-content/uploads/md/android/android/webapps/webview-testing
+
+
+@@@Bundling
+
+##Android App Bundles
+App  Bundle Overview=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-bundle/app-bundle
+Configure the base module=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-bundle/configure-base
+Build and test your app bundle=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-bundle/test
+Add code transparency=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-bundle/code-transparency
+The app bundle format=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-bundle/app-bundle-format
+App Bundle Frequently Asked Questions=>https://apps.camposha.info/wp-content/uploads/md/android/android/app-bundle/faq
+
+

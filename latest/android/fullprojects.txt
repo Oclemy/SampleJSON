@@ -1,0 +1,3 @@
+##Call
+AutoCallScheduler=>https://apps.camposha.info/wp-content/uploads/md/android/fullprojects/rrsaikat__AutoCallScheduler
+Dialer Replacement=>https://apps.camposha.info/wp-content/uploads/md/android/fullprojects/mbarrben__android_dialer_replacement

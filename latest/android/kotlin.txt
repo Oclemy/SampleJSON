@@ -1,0 +1,126 @@
+@@@Getting Started
+
+##Basics
+Basic Syntax=>basic-syntax
+Idioms=>idioms
+Coding Conventions=>coding-conventions
+
+@@@Concepts
+
+##Basic Types
+Basic Types Overview=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/basic-types
+Numbers=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/numbers
+Booleans=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/booleans
+Characters=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/characters
+Strings=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/strings
+Arrays=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/arrays
+Unsigned Integer Types=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/unsigned-integer-types
+
+##Typecasts
+Type checks and casts=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/typecasts
+
+##Control Flow
+Conditions and loops=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/control-flow
+Returns and jumps=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/returns
+Exceptions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/exceptions
+
+@@@Object Orientation
+
+##Packages
+Packages and imports=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/packages
+
+##Classes and Objects
+Classes=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/classes
+Inheritance=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/inheritance
+Properties=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/properties
+Interfaces=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/interfaces
+Functional (SAM) interfaces=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/fun-interfaces
+Visibility modifiers=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/visibility-modifiers
+Extensions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/extensions
+Data classes=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/data-classes
+Sealed classes=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/sealed-classes
+Generics: in, out, where=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/generics
+Nested and inner classes=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/nested-classes
+Enum classes=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/enum-classes
+Inline classes=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/inline-classes
+Object expressions and declarations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/object-declarations
+Delegation=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/delegation
+Delegated properties=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/delegated-properties
+Type aliases=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/type-aliases
+
+##Functions
+Functions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/functions
+Lambdas=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/lambdas
+Inline functions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/inline-functions
+Operator overloading=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/operator-overloading
+Type-safe builders=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/type-safe-builders
+Using builders with builder type inference=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/using-builders-with-builder-inference
+Null safety=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/null-safety
+Equality=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/equality
+This expressions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/this-expressions
+Asynchronous programming techniques=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/async-programming
+Coroutines=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/coroutines-overview
+Annotations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/annotations
+Destructuring declarations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/destructuring-declarations
+Reflection=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/reflection
+Scope Functions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/scope-functions
+
+@@@Standard Library
+
+##Collections
+Collections Overview=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collections-overview
+Constructing collections=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/constructing-collections
+Iterators=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/iterators
+Ranges and progressions=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/ranges
+Sequences=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/sequences
+Operations overview=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-operations
+Transformations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-transformations
+Filter=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-filtering
+Plus and minus operators=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-plus-minus
+Group elements=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-grouping
+Retrieve collection parts=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-parts
+Retrieve single elements=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-elements
+Ordering=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-ordering
+Aggregate operations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-aggregate
+Write operations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/collection-write
+List-specific operations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/list-operations
+Set-specific operations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/set-operations
+Map-specific operations=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/map-operations
+
+##Serialization
+Serialization=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/serialization
+
+##Keyword Reference
+Keyword Reference=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/keyword-reference
+
+@@@Tooling
+
+##Build Tools
+Gradle Overview=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/gradle
+Maven=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/maven
+Ant=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/ant
+
+##Gradle
+Gradle Overview=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/gradle
+Get started with Gradle – tutorial=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/get-started-with-jvm-gradle-project
+Configure a Gradle project=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/gradle-configure-project
+Compiler options=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/gradle-compiler-options
+Compilation and caches=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/gradle-compilation-and-caches
+
+##IDE
+IDE for Kotlin development=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/kotlin-ide
+Migrate to Kotlin code style with IntelliJ IDEA=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/code-style-migration-guide
+Run code snippets=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/run-code-snippets
+
+##Compiler
+Command-line compiler=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/command-line
+Compiler options=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/compiler-reference
+
+##Compiler Plugins
+All-open=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/all-open-plugin
+No-arg=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/no-arg-plugin
+SAM with receiver=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/sam-with-receiver-plugin
+kapt=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/kapt
+Lombok=>https://apps.camposha.info/wp-content/uploads/md/android/kotlin/lombok
+
+
