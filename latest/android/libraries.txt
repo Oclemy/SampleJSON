@@ -557,6 +557,9 @@ Bubble Navigation=>joielechong/bubble-navigation
 ##Threads
 EasyThread=>yjfnypeu/EasyThread
 
+##Timer
+FlipTimerView=>anugotta/FlipTimerView
+
 ##TreeView
 DraggableTreeView=>jakebonk/DraggableTreeView
 
