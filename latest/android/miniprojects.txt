@@ -5,11 +5,40 @@ Neumorphic BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/andr
 Colored BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/NINadjem__BMI-Calculator
 Android Studio BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Brijesh-kumar-sharma__BMIcalculatorinAndroidStudio
 
+## Calculator
+Calculator Application=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/adpth__Calculator-Application
+
+## Chat
+Firebase Chat App=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Brijesh-kumar-sharma__chatAppInAndroidStudio
+
 ## Contacts
 Share My Number=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/characterdog__share-my-number
+
+## Dialer
+Dialer Replacement=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/mbarrben__android_dialer_replacement
+
+## News
+The News Project=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/unaisulhadi__The-News-Project
+News Feed App=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/nameisjayant__News-feed-app-android-kotlin
+
+## Notes
+Notes=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/unaisulhadi__Notes
+
+## Quotes
+Inspire=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/unaisulhadi__Inspire
+
+## Quiz
+Quiz App Android Studio=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Brijesh-kumar-sharma__QuizAppInAndroidStudio
 
 ## Realm
 Realm MVVM Mini Notes App=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Spikeysanju__Mini-Notes-App-Realm
 
 ## Text Generator
 Lorem Ipsum Generator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/characterdog__loremipsum
+
+## TicTacToe
+TicTacToe Android Studio=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Brijesh-kumar-sharma__TicTacToeInAndroidStudio
+
+## Weather
+Weather App Android Studio=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Brijesh-kumar-sharma__WeatherAppInAndroidStudio
+Weather App=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/nameisjayant__Weather-app-in-Android-Kotlin
