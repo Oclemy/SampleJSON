@@ -7,3 +7,5 @@ Share My Number=>https://apps.camposha.info/wp-content/uploads/md/android/minipr
 ## Realm
 Realm MVVM Mini Notes App=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Spikeysanju__Mini-Notes-App-Realm
 
+## Text Generator
+Lorem Ipsum Generator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/characterdog__loremipsum
