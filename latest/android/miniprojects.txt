@@ -1,5 +1,9 @@
 ## BMI Calculator
+Beautiful BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/adpth__BMI-Calculator
 BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/characterdog__bmi-calculator
+Neumorphic BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/unaisulhadi__Neumorphic-BMI-App
+Colored BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/NINadjem__BMI-Calculator
+Android Studio BMI Calculator=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/Brijesh-kumar-sharma__BMIcalculatorinAndroidStudio
 
 ## Contacts
 Share My Number=>https://apps.camposha.info/wp-content/uploads/md/android/miniprojects/characterdog__share-my-number
