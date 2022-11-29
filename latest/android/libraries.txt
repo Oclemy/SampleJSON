@@ -558,7 +558,12 @@ Bubble Navigation=>joielechong/bubble-navigation
 EasyThread=>yjfnypeu/EasyThread
 
 ##Timer
+happysingh23828/HappyTimer
+TimerX=>arsvechkarev/TimerX
 FlipTimerView=>anugotta/FlipTimerView
+
+##TimePicker
+TimeRangePicker=>Droppers/TimeRangePicker
 
 ##TreeView
 DraggableTreeView=>jakebonk/DraggableTreeView
