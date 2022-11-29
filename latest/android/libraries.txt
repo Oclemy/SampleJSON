@@ -430,6 +430,7 @@ Easy Rating Dialog=>fernandodev/easy-rating-dialog
 Android-RateThisApp=>kobakei/Android-RateThisApp
 Feedback dialog=>shivasurya/FeedbackDialog
 Smiley RatingBar=>sujithkanna/SmileyRating
+Emoji RatingBar=>unaisulhadi/emojiratingbar
 
 ##REACTIVE PROGRAMMING
 RxJava3=>ReactiveX/RxJava
