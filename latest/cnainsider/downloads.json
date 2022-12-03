@@ -1,0 +1,20 @@
+[
+{
+    "id": "onesplaylist",
+    "date": "2022-12-03",
+    "name": "PlayList 1",
+    "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/ones.txt"
+},
+{
+    "id": "twosplaylist",
+    "date": "2022-12-03",
+    "name": "PlayList 2",
+    "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/twos.txt"
+},
+{
+    "id": "threesplaylist",
+    "date": "2022-12-03",
+    "name": "PlayList 3",
+    "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/threes.txt"
+}
+]
