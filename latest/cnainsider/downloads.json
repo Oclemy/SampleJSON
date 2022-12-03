@@ -1,66 +1,66 @@
 [
 {
-    "id": "onesplaylist",
+    "id": "ones",
     "date": "2022-12-03",
     "name": "PlayList 1",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/ones.txt"
 },
 {
-    "id": "twosplaylist",
+    "id": "twos",
     "date": "2022-12-03",
     "name": "PlayList 2",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/twos.txt"
 },
 {
-    "id": "threesplaylist",
+    "id": "threes",
     "date": "2022-12-03",
     "name": "PlayList 3",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/threes.txt"
 },
 {
-    "id": "foursplaylist",
+    "id": "fours",
     "date": "2022-12-03",
     "name": "PlayList 4",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/fours.txt"
 },
 {
-    "id": "fivesplaylist",
+    "id": "fives",
     "date": "2022-12-03",
     "name": "PlayList 5",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/fives.txt"
 },
 {
-    "id": "sixsplaylist",
+    "id": "sixs",
     "date": "2022-12-03",
     "name": "PlayList 6",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/sixs.txt"
 },
 {
-    "id": "sevensplaylist",
+    "id": "sevens",
     "date": "2022-12-03",
     "name": "PlayList 7",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/sevens.txt"
 },
 {
-    "id": "eightsplaylist",
+    "id": "eights",
     "date": "2022-12-03",
     "name": "PlayList 8",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/eights.txt"
 },
 {
-    "id": "ninessplaylist",
+    "id": "nines",
     "date": "2022-12-03",
     "name": "PlayList 9",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/nines.txt"
 },
 {
-    "id": "tensplaylist",
+    "id": "tens",
     "date": "2022-12-03",
     "name": "PlayList 10",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/tens.txt"
 },
 {
-    "id": "elevensplaylist",
+    "id": "elevens",
     "date": "2022-12-03",
     "name": "PlayList 11",
     "url": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/latest/cnainsider/elevens.txt"
