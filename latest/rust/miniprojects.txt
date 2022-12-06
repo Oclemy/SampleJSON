@@ -1,8 +1,19 @@
+##Audio and Music
+EngineSound=>DasEtwas/enginesound
+NCspot=>hrkfdn/ncspot
+Polaris=>agersant/polaris
+Spotifyd=>Spotifyd/spotifyd
+Spotify-TUI=>Rigellute/spotify-tui
+WhatBPM=>sergree/whatbpm
+
 ##Calculator
 Kalker=>PaddiM8/kalker
 
 ##Fend
 Fend=>printfn/fend
+
+##Generator
+Weld=>serayuzgur/weld
 
 ##HTTP
 Herd=>imjacobclark/Herd
@@ -10,5 +21,8 @@ Herd=>imjacobclark/Herd
 ##Logger
 FlowLogger=>awslabs/flowgger
 
-##VPN
-Kytan=>changlan/kytan
+##Terminal
+Notty=>withoutboats/notty
+Tiny=>osa1/tiny
+
+
