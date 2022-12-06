@@ -1,0 +1,14 @@
+##Calculator
+Kalker=>PaddiM8/kalker
+
+##Fend
+Fend=>printfn/fend
+
+##HTTP
+Herd=>imjacobclark/Herd
+
+##Logger
+FlowLogger=>awslabs/flowgger
+
+##VPN
+Kytan=>changlan/kytan
