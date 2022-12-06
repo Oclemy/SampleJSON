@@ -1,11 +1,20 @@
+##Browser
+Servo=>servo/servo
+
 ##Compiler
 SWC=>swc-project/swc
+
+##Deployment
+Shuttle=>shuttle-hq/shuttle
 
 ##DNS
 https://crates.io/crates/trust-dns
 
 ##Markdown
 Markdown=>rust-lang/mdBook
+
+##Photo Editor
+Rx=>cloudhead/rx
 
 ##Programming Language
 Glicol=>/chaosprint/glicol
@@ -15,3 +24,4 @@ Wezterm=>/wez/wezterm
 
 ##VPN
 Kytan=>changlan/kytan
+
