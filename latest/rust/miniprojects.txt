@@ -9,6 +9,16 @@ WhatBPM=>sergree/whatbpm
 ##Calculator
 Kalker=>PaddiM8/kalker
 
+##Cryptocurrency
+Solana=>solana-labs/solana
+Sigma Rust=>ergoplatform/sigma-rust
+REVM=>bluealloy/revm
+Polkadot=>paritytech/polkadot
+phala-blockchain=>Phala-Network/phala-blockchain
+Nearcore=>near/nearcore
+mev-inspect-rs=>flashbots/mev-inspect-rs
+
+
 ##Fend
 Fend=>printfn/fend
 
