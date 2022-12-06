@@ -550,6 +550,9 @@ Reactor=>oky2abbas/reactor
 ##Stepper
 VerticalStepperForm=>ernestoyaquello/VerticalStepperForm
 
+##String Utilities
+Pluralizer=>cesarferreira/kotlin-pluralizer
+
 ##Tabs
 AnimatedTabLayout=>iammert/AnimatedTabLayout
 TabScrollAttacher=>iammert/TabScrollAttacher
@@ -589,6 +592,9 @@ Tooltip View=>venmo/tooltip-view
 
 ##Toast
 MaterialToast=>marcoscgdev/MaterialToast
+
+##UI Pages
+Insta-Story=>cesarferreira/insta-story
 
 ##URL
 Beaver=>savepopulation/beaver
