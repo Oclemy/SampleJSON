@@ -123,9 +123,10 @@ Frames-Android=>checkout/frames-android
 DrawingView=>mukeshsolanki/DrawingView-Android
 
 ##Date,Time and Calender
-Temp=>cesarferreira/tempo
+tempo=>cesarferreira/tempo
 CalenderView Toolbar=>kleisauke/CompactCalendarViewToolbar
 Compact CalenderView=>SundeepK/CompactCalendarView
+Tempo=>AllanHasegawa/Tempo
 
 ##Bluetooth
 RxAndroid BLE=>Polidea/RxAndroidBle
@@ -297,6 +298,7 @@ Coil=>coil-kt/coil
 Glide Transformations=>wasabeef/glide-transformations
 Transformers=>wasabeef/transformers
 Composable Images=>wasabeef/composable-images
+Tomo=>AllanHasegawa/Tomo
 
 ##ImageView
 Subsampling Scale ImageView=>davemorrissey/subsampling-scale-image-view
