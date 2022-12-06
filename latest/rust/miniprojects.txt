@@ -8,6 +8,7 @@ WhatBPM=>sergree/whatbpm
 
 ##Calculator
 Kalker=>PaddiM8/kalker
+Fend=>printfn/fend
 
 ##Cryptocurrency
 Solana=>solana-labs/solana
@@ -18,9 +19,22 @@ phala-blockchain=>Phala-Network/phala-blockchain
 Nearcore=>near/nearcore
 mev-inspect-rs=>flashbots/mev-inspect-rs
 
-
-##Fend
-Fend=>printfn/fend
+##Games
+CityBound=>citybound/citybound
+rust-doom=>cristicbz/rust-doom
+doukutsu-rs=>doukutsu-rs/doukutsu-rs
+rusted-ruins=>garkimasera/rusted-ruins
+Ferium=>gorilla-devs/ferium
+angolmois-rust=>lifthrasiir/angolmois-rust
+RSnake=>mara214/rsnake
+Zemeroth=>ozkriff/zemeroth
+rhex=>dpc/rhex
+Magog=>rsaarelm/magog
+mk48=>SoftbearStudios/mk48
+Sokoban-rs=>swatteau/sokoban-rs
+Thetawave-legacy=>thetawavegame/thetawave-legacy
+Rust-quake=>Thinkofname/rust-quake
+Zoc=>ozkriff/zoc
 
 ##Generator
 Weld=>serayuzgur/weld
