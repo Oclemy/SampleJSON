@@ -1,5 +1,0 @@
-##Tooltip
-Balloon=>kazzkiq/balloon.css
-cssarrowplease=>hojberg/cssarrowplease
-Tooltip=>HubSpot/tooltip
-TooltipStylesInspiration=>codrops/TooltipStylesInspiration
