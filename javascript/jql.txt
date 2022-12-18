@@ -1,7 +1,0 @@
-##ToolTip
-Tooltipster=>calebjacob/tooltipster
-Tooltipsy=>briancray/tooltipsy
-Tipsy=>jaz303/tipsy
-qTip2=>qTip2/qTip2
-Tippyjs=>atomiks/tippyjs
-Tooltip Animations=>codrops/TooltipAnimations
